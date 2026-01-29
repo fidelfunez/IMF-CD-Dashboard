@@ -2,7 +2,7 @@
 
 ![IMF CD Dashboard](IMF%20CD%20Dashboard.png)
 
-A Python script pulls economic indicators from the IMF and World Bank APIs for 25 member countries (2018-2024) and writes a single CSV. That CSV feeds a Power BI dashboard used to look at GDP growth, inflation, fiscal metrics, and related series across regions, including around the COVID-19 period.
+For this project I wrote a Python script that pulls economic (capacity development) indicators from the IMF and World Bank APIs for 25 member countries (2018-2024) and writes/creates a single CSV. That CSV feeds a Power BI dashboard used to look at GDP growth, inflation, fiscal metrics, and related series across regions, including around the COVID-19 period.
 
 **What the dashboard shows**
 - GDP growth trends by country and region
