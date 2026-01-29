@@ -1,0 +1,618 @@
+Country_Code,Country,Region,Year,Indicator_Name,Indicator_Code,Value,Source
+ARG,Argentina,Latin America,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.87773990631104,World Bank
+ARG,Argentina,Latin America,2018,GNI per Capita,NY.GNP.PCAP.CD,12390.0,World Bank
+ARG,Argentina,Latin America,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,1151820000.0,World Bank
+ARG,Argentina,Latin America,2018,Population,SP.POP.TOTL,44654882.0,World Bank
+ARG,Argentina,Latin America,2018,Railway Infrastructure,IS.RRS.TOTL.KM,17866.0,World Bank
+ARG,Argentina,Latin America,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.7716498374939,World Bank
+ARG,Argentina,Latin America,2019,GNI per Capita,NY.GNP.PCAP.CD,11210.0,World Bank
+ARG,Argentina,Latin America,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,2060400000.0,World Bank
+ARG,Argentina,Latin America,2019,Population,SP.POP.TOTL,44973465.0,World Bank
+ARG,Argentina,Latin America,2019,Railway Infrastructure,IS.RRS.TOTL.KM,17866.0,World Bank
+ARG,Argentina,Latin America,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.27689981460571,World Bank
+ARG,Argentina,Latin America,2020,GNI per Capita,NY.GNP.PCAP.CD,9040.0,World Bank
+ARG,Argentina,Latin America,2020,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,160000000.0,World Bank
+ARG,Argentina,Latin America,2020,Population,SP.POP.TOTL,45191965.0,World Bank
+ARG,Argentina,Latin America,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.65393018722534,World Bank
+ARG,Argentina,Latin America,2021,GNI per Capita,NY.GNP.PCAP.CD,10070.0,World Bank
+ARG,Argentina,Latin America,2021,Population,SP.POP.TOTL,45312281.0,World Bank
+ARG,Argentina,Latin America,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.79263019561768,World Bank
+ARG,Argentina,Latin America,2022,GNI per Capita,NY.GNP.PCAP.CD,11890.0,World Bank
+ARG,Argentina,Latin America,2022,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,516000000.0,World Bank
+ARG,Argentina,Latin America,2022,Population,SP.POP.TOTL,45407904.0,World Bank
+ARG,Argentina,Latin America,2023,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.89754023690244,World Bank
+ARG,Argentina,Latin America,2023,GNI per Capita,NY.GNP.PCAP.CD,12920.0,World Bank
+ARG,Argentina,Latin America,2023,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,720000000.0,World Bank
+ARG,Argentina,Latin America,2023,Population,SP.POP.TOTL,45538401.0,World Bank
+ARG,Argentina,Latin America,2024,GNI per Capita,NY.GNP.PCAP.CD,13530.0,World Bank
+ARG,Argentina,Latin America,2024,Population,SP.POP.TOTL,45696159.0,World Bank
+BGD,Bangladesh,Asia,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.09477473545666,World Bank
+BGD,Bangladesh,Asia,2018,GNI per Capita,NY.GNP.PCAP.CD,2020.0,World Bank
+BGD,Bangladesh,Asia,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,269000000.0,World Bank
+BGD,Bangladesh,Asia,2018,Population,SP.POP.TOTL,163523103.0,World Bank
+BGD,Bangladesh,Asia,2018,Railway Infrastructure,IS.RRS.TOTL.KM,2877.0,World Bank
+BGD,Bangladesh,Asia,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,1.13094997406006,World Bank
+BGD,Bangladesh,Asia,2019,GNI per Capita,NY.GNP.PCAP.CD,2220.0,World Bank
+BGD,Bangladesh,Asia,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,35710000.0,World Bank
+BGD,Bangladesh,Asia,2019,Population,SP.POP.TOTL,164913055.0,World Bank
+BGD,Bangladesh,Asia,2019,Railway Infrastructure,IS.RRS.TOTL.KM,2877.0,World Bank
+BGD,Bangladesh,Asia,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.13974351741877,World Bank
+BGD,Bangladesh,Asia,2020,GNI per Capita,NY.GNP.PCAP.CD,2320.0,World Bank
+BGD,Bangladesh,Asia,2020,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,2087000000.0,World Bank
+BGD,Bangladesh,Asia,2020,Population,SP.POP.TOTL,166298024.0,World Bank
+BGD,Bangladesh,Asia,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.17090882504654,World Bank
+BGD,Bangladesh,Asia,2021,GNI per Capita,NY.GNP.PCAP.CD,2600.0,World Bank
+BGD,Bangladesh,Asia,2021,Population,SP.POP.TOTL,167658854.0,World Bank
+BGD,Bangladesh,Asia,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.08538657806243,World Bank
+BGD,Bangladesh,Asia,2022,GNI per Capita,NY.GNP.PCAP.CD,2850.0,World Bank
+BGD,Bangladesh,Asia,2022,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,613000000.0,World Bank
+BGD,Bangladesh,Asia,2022,Population,SP.POP.TOTL,169384897.0,World Bank
+BGD,Bangladesh,Asia,2023,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.16213826344701,World Bank
+BGD,Bangladesh,Asia,2023,GNI per Capita,NY.GNP.PCAP.CD,2880.0,World Bank
+BGD,Bangladesh,Asia,2023,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,247550000.0,World Bank
+BGD,Bangladesh,Asia,2023,Population,SP.POP.TOTL,171466990.0,World Bank
+BGD,Bangladesh,Asia,2024,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.0343847791384,World Bank
+BGD,Bangladesh,Asia,2024,GNI per Capita,NY.GNP.PCAP.CD,2820.0,World Bank
+BGD,Bangladesh,Asia,2024,Population,SP.POP.TOTL,173562364.0,World Bank
+BRA,Brazil,Latin America,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,6.08851003646851,World Bank
+BRA,Brazil,Latin America,2018,GNI per Capita,NY.GNP.PCAP.CD,9320.0,World Bank
+BRA,Brazil,Latin America,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,4953540000.0,World Bank
+BRA,Brazil,Latin America,2018,Population,SP.POP.TOTL,206107261.0,World Bank
+BRA,Brazil,Latin America,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.96346998214722,World Bank
+BRA,Brazil,Latin America,2019,GNI per Capita,NY.GNP.PCAP.CD,9410.0,World Bank
+BRA,Brazil,Latin America,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,14946570000.0,World Bank
+BRA,Brazil,Latin America,2019,Population,SP.POP.TOTL,207455459.0,World Bank
+BRA,Brazil,Latin America,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.77150011062622,World Bank
+BRA,Brazil,Latin America,2020,GNI per Capita,NY.GNP.PCAP.CD,8080.0,World Bank
+BRA,Brazil,Latin America,2020,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,6242530000.0,World Bank
+BRA,Brazil,Latin America,2020,Population,SP.POP.TOTL,208660842.0,World Bank
+BRA,Brazil,Latin America,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.4969801902771,World Bank
+BRA,Brazil,Latin America,2021,GNI per Capita,NY.GNP.PCAP.CD,8060.0,World Bank
+BRA,Brazil,Latin America,2021,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,3270180000.0,World Bank
+BRA,Brazil,Latin America,2021,Population,SP.POP.TOTL,209550294.0,World Bank
+BRA,Brazil,Latin America,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.61922979354858,World Bank
+BRA,Brazil,Latin America,2022,GNI per Capita,NY.GNP.PCAP.CD,8440.0,World Bank
+BRA,Brazil,Latin America,2022,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,6127990000.0,World Bank
+BRA,Brazil,Latin America,2022,Population,SP.POP.TOTL,210306415.0,World Bank
+BRA,Brazil,Latin America,2023,GNI per Capita,NY.GNP.PCAP.CD,9310.0,World Bank
+BRA,Brazil,Latin America,2023,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,3845070000.0,World Bank
+BRA,Brazil,Latin America,2023,Population,SP.POP.TOTL,211140729.0,World Bank
+BRA,Brazil,Latin America,2024,GNI per Capita,NY.GNP.PCAP.CD,9930.0,World Bank
+BRA,Brazil,Latin America,2024,Population,SP.POP.TOTL,211998573.0,World Bank
+CHL,Chile,Latin America,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.473060131073,World Bank
+CHL,Chile,Latin America,2018,GNI per Capita,NY.GNP.PCAP.CD,14460.0,World Bank
+CHL,Chile,Latin America,2018,Population,SP.POP.TOTL,18893191.0,World Bank
+CHL,Chile,Latin America,2018,Railway Infrastructure,IS.RRS.TOTL.KM,2396.0,World Bank
+CHL,Chile,Latin America,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.62630987167358,World Bank
+CHL,Chile,Latin America,2019,GNI per Capita,NY.GNP.PCAP.CD,14690.0,World Bank
+CHL,Chile,Latin America,2019,Population,SP.POP.TOTL,19197744.0,World Bank
+CHL,Chile,Latin America,2019,Railway Infrastructure,IS.RRS.TOTL.KM,2396.0,World Bank
+CHL,Chile,Latin America,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.62993001937866,World Bank
+CHL,Chile,Latin America,2020,GNI per Capita,NY.GNP.PCAP.CD,12960.0,World Bank
+CHL,Chile,Latin America,2020,Population,SP.POP.TOTL,19370624.0,World Bank
+CHL,Chile,Latin America,2020,Railway Infrastructure,IS.RRS.TOTL.KM,2396.0,World Bank
+CHL,Chile,Latin America,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.99923992156982,World Bank
+CHL,Chile,Latin America,2021,GNI per Capita,NY.GNP.PCAP.CD,14790.0,World Bank
+CHL,Chile,Latin America,2021,Population,SP.POP.TOTL,19456334.0,World Bank
+CHL,Chile,Latin America,2021,Railway Infrastructure,IS.RRS.TOTL.KM,2396.0,World Bank
+CHL,Chile,Latin America,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.89753007888794,World Bank
+CHL,Chile,Latin America,2022,GNI per Capita,NY.GNP.PCAP.CD,15440.0,World Bank
+CHL,Chile,Latin America,2022,Population,SP.POP.TOTL,19553036.0,World Bank
+CHL,Chile,Latin America,2023,GNI per Capita,NY.GNP.PCAP.CD,15950.0,World Bank
+CHL,Chile,Latin America,2023,Population,SP.POP.TOTL,19658835.0,World Bank
+CHL,Chile,Latin America,2024,GNI per Capita,NY.GNP.PCAP.CD,15750.0,World Bank
+CHL,Chile,Latin America,2024,Population,SP.POP.TOTL,19764771.0,World Bank
+COL,Colombia,Latin America,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.44910001754761,World Bank
+COL,Colombia,Latin America,2018,GNI per Capita,NY.GNP.PCAP.CD,6350.0,World Bank
+COL,Colombia,Latin America,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,78000000.0,World Bank
+COL,Colombia,Latin America,2018,Population,SP.POP.TOTL,49024465.0,World Bank
+COL,Colombia,Latin America,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.51069021224976,World Bank
+COL,Colombia,Latin America,2019,GNI per Capita,NY.GNP.PCAP.CD,6630.0,World Bank
+COL,Colombia,Latin America,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,165200000.0,World Bank
+COL,Colombia,Latin America,2019,Population,SP.POP.TOTL,49907985.0,World Bank
+COL,Colombia,Latin America,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.26166009902954,World Bank
+COL,Colombia,Latin America,2020,GNI per Capita,NY.GNP.PCAP.CD,5850.0,World Bank
+COL,Colombia,Latin America,2020,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,205230000.0,World Bank
+COL,Colombia,Latin America,2020,Population,SP.POP.TOTL,50629997.0,World Bank
+COL,Colombia,Latin America,2021,GNI per Capita,NY.GNP.PCAP.CD,6310.0,World Bank
+COL,Colombia,Latin America,2021,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,24000000.0,World Bank
+COL,Colombia,Latin America,2021,Population,SP.POP.TOTL,51188173.0,World Bank
+COL,Colombia,Latin America,2022,GNI per Capita,NY.GNP.PCAP.CD,6560.0,World Bank
+COL,Colombia,Latin America,2022,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,585560000.0,World Bank
+COL,Colombia,Latin America,2022,Population,SP.POP.TOTL,51737944.0,World Bank
+COL,Colombia,Latin America,2023,GNI per Capita,NY.GNP.PCAP.CD,6720.0,World Bank
+COL,Colombia,Latin America,2023,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,720900000.0,World Bank
+COL,Colombia,Latin America,2023,Population,SP.POP.TOTL,52321152.0,World Bank
+COL,Colombia,Latin America,2024,GNI per Capita,NY.GNP.PCAP.CD,7040.0,World Bank
+COL,Colombia,Latin America,2024,Population,SP.POP.TOTL,52886363.0,World Bank
+EGY,Egypt,Africa,2018,GNI per Capita,NY.GNP.PCAP.CD,2710.0,World Bank
+EGY,Egypt,Africa,2018,Population,SP.POP.TOTL,105682094.0,World Bank
+EGY,Egypt,Africa,2019,GNI per Capita,NY.GNP.PCAP.CD,2640.0,World Bank
+EGY,Egypt,Africa,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,335000000.0,World Bank
+EGY,Egypt,Africa,2019,Population,SP.POP.TOTL,107553158.0,World Bank
+EGY,Egypt,Africa,2020,GNI per Capita,NY.GNP.PCAP.CD,2960.0,World Bank
+EGY,Egypt,Africa,2020,Population,SP.POP.TOTL,109315124.0,World Bank
+EGY,Egypt,Africa,2021,GNI per Capita,NY.GNP.PCAP.CD,3470.0,World Bank
+EGY,Egypt,Africa,2021,Population,SP.POP.TOTL,110957008.0,World Bank
+EGY,Egypt,Africa,2022,GNI per Capita,NY.GNP.PCAP.CD,4040.0,World Bank
+EGY,Egypt,Africa,2022,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,1039000000.0,World Bank
+EGY,Egypt,Africa,2022,Population,SP.POP.TOTL,112618250.0,World Bank
+EGY,Egypt,Africa,2023,GNI per Capita,NY.GNP.PCAP.CD,3840.0,World Bank
+EGY,Egypt,Africa,2023,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,869400000.0,World Bank
+EGY,Egypt,Africa,2023,Population,SP.POP.TOTL,114535772.0,World Bank
+EGY,Egypt,Africa,2024,GNI per Capita,NY.GNP.PCAP.CD,3510.0,World Bank
+EGY,Egypt,Africa,2024,Population,SP.POP.TOTL,116538258.0,World Bank
+ETH,Ethiopia,Africa,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.22011189522399,World Bank
+ETH,Ethiopia,Africa,2018,GNI per Capita,NY.GNP.PCAP.CD,730.0,World Bank
+ETH,Ethiopia,Africa,2018,Population,SP.POP.TOTL,112664152.0,World Bank
+ETH,Ethiopia,Africa,2018,Railway Infrastructure,IS.RRS.TOTL.KM,754.0,World Bank
+ETH,Ethiopia,Africa,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.48086946127054,World Bank
+ETH,Ethiopia,Africa,2019,GNI per Capita,NY.GNP.PCAP.CD,790.0,World Bank
+ETH,Ethiopia,Africa,2019,Population,SP.POP.TOTL,115737383.0,World Bank
+ETH,Ethiopia,Africa,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.0905654220699,World Bank
+ETH,Ethiopia,Africa,2020,GNI per Capita,NY.GNP.PCAP.CD,820.0,World Bank
+ETH,Ethiopia,Africa,2020,Population,SP.POP.TOTL,118917671.0,World Bank
+ETH,Ethiopia,Africa,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.06524874309096,World Bank
+ETH,Ethiopia,Africa,2021,GNI per Capita,NY.GNP.PCAP.CD,880.0,World Bank
+ETH,Ethiopia,Africa,2021,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,271000000.0,World Bank
+ETH,Ethiopia,Africa,2021,Population,SP.POP.TOTL,122138588.0,World Bank
+ETH,Ethiopia,Africa,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.73649512188829,World Bank
+ETH,Ethiopia,Africa,2022,GNI per Capita,NY.GNP.PCAP.CD,960.0,World Bank
+ETH,Ethiopia,Africa,2022,Population,SP.POP.TOTL,125384287.0,World Bank
+ETH,Ethiopia,Africa,2023,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.9272447768927,World Bank
+ETH,Ethiopia,Africa,2023,GNI per Capita,NY.GNP.PCAP.CD,1030.0,World Bank
+ETH,Ethiopia,Africa,2023,Population,SP.POP.TOTL,128691692.0,World Bank
+ETH,Ethiopia,Africa,2024,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.2978069565991,World Bank
+ETH,Ethiopia,Africa,2024,GNI per Capita,NY.GNP.PCAP.CD,1100.0,World Bank
+ETH,Ethiopia,Africa,2024,Population,SP.POP.TOTL,132059767.0,World Bank
+GHA,Ghana,Africa,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.8861300945282,World Bank
+GHA,Ghana,Africa,2018,GNI per Capita,NY.GNP.PCAP.CD,2060.0,World Bank
+GHA,Ghana,Africa,2018,Population,SP.POP.TOTL,30637585.0,World Bank
+GHA,Ghana,Africa,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.15307114842573,World Bank
+GHA,Ghana,Africa,2019,GNI per Capita,NY.GNP.PCAP.CD,2170.0,World Bank
+GHA,Ghana,Africa,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,1533000000.0,World Bank
+GHA,Ghana,Africa,2019,Population,SP.POP.TOTL,31258945.0,World Bank
+GHA,Ghana,Africa,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.40915991351725,World Bank
+GHA,Ghana,Africa,2020,GNI per Capita,NY.GNP.PCAP.CD,2250.0,World Bank
+GHA,Ghana,Africa,2020,Population,SP.POP.TOTL,31887809.0,World Bank
+GHA,Ghana,Africa,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.4005042684722,World Bank
+GHA,Ghana,Africa,2021,GNI per Capita,NY.GNP.PCAP.CD,2300.0,World Bank
+GHA,Ghana,Africa,2021,Population,SP.POP.TOTL,32518665.0,World Bank
+GHA,Ghana,Africa,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.90963831638452,World Bank
+GHA,Ghana,Africa,2022,GNI per Capita,NY.GNP.PCAP.CD,2400.0,World Bank
+GHA,Ghana,Africa,2022,Population,SP.POP.TOTL,33149152.0,World Bank
+GHA,Ghana,Africa,2023,GNI per Capita,NY.GNP.PCAP.CD,2280.0,World Bank
+GHA,Ghana,Africa,2023,Population,SP.POP.TOTL,33787914.0,World Bank
+GHA,Ghana,Africa,2024,GNI per Capita,NY.GNP.PCAP.CD,2310.0,World Bank
+GHA,Ghana,Africa,2024,Population,SP.POP.TOTL,34427414.0,World Bank
+IND,India,Asia,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.36373996734619,World Bank
+IND,India,Asia,2018,GNI per Capita,NY.GNP.PCAP.CD,1970.0,World Bank
+IND,India,Asia,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,1639510000.0,World Bank
+IND,India,Asia,2018,Population,SP.POP.TOTL,1374659064.0,World Bank
+IND,India,Asia,2018,Railway Infrastructure,IS.RRS.TOTL.KM,69249.0,World Bank
+IND,India,Asia,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.89732003211975,World Bank
+IND,India,Asia,2019,GNI per Capita,NY.GNP.PCAP.CD,2070.0,World Bank
+IND,India,Asia,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,856350000.0,World Bank
+IND,India,Asia,2019,Population,SP.POP.TOTL,1389030312.0,World Bank
+IND,India,Asia,2019,Railway Infrastructure,IS.RRS.TOTL.KM,67414.07,World Bank
+IND,India,Asia,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.29335021972656,World Bank
+IND,India,Asia,2020,GNI per Capita,NY.GNP.PCAP.CD,1900.0,World Bank
+IND,India,Asia,2020,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,3303310000.0,World Bank
+IND,India,Asia,2020,Population,SP.POP.TOTL,1402617695.0,World Bank
+IND,India,Asia,2020,Railway Infrastructure,IS.RRS.TOTL.KM,67955.63,World Bank
+IND,India,Asia,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.62949991226196,World Bank
+IND,India,Asia,2021,GNI per Capita,NY.GNP.PCAP.CD,2170.0,World Bank
+IND,India,Asia,2021,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,1621240000.0,World Bank
+IND,India,Asia,2021,Population,SP.POP.TOTL,1414203896.0,World Bank
+IND,India,Asia,2021,Railway Infrastructure,IS.RRS.TOTL.KM,68102.73,World Bank
+IND,India,Asia,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.09865814174589,World Bank
+IND,India,Asia,2022,GNI per Capita,NY.GNP.PCAP.CD,2390.0,World Bank
+IND,India,Asia,2022,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,2469730000.0,World Bank
+IND,India,Asia,2022,Population,SP.POP.TOTL,1425423212.0,World Bank
+IND,India,Asia,2023,GNI per Capita,NY.GNP.PCAP.CD,2580.0,World Bank
+IND,India,Asia,2023,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,4467300000.0,World Bank
+IND,India,Asia,2023,Population,SP.POP.TOTL,1438069596.0,World Bank
+IND,India,Asia,2024,GNI per Capita,NY.GNP.PCAP.CD,2650.0,World Bank
+IND,India,Asia,2024,Population,SP.POP.TOTL,1450935791.0,World Bank
+IDN,Indonesia,Asia,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,0.994436460846179,World Bank
+IDN,Indonesia,Asia,2018,GNI per Capita,NY.GNP.PCAP.CD,3810.0,World Bank
+IDN,Indonesia,Asia,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,3420100000.0,World Bank
+IDN,Indonesia,Asia,2018,Population,SP.POP.TOTL,269951846.0,World Bank
+IDN,Indonesia,Asia,2018,Railway Infrastructure,IS.RRS.TOTL.KM,5483.312,World Bank
+IDN,Indonesia,Asia,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,0.964399077622927,World Bank
+IDN,Indonesia,Asia,2019,GNI per Capita,NY.GNP.PCAP.CD,4020.0,World Bank
+IDN,Indonesia,Asia,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,290000000.0,World Bank
+IDN,Indonesia,Asia,2019,Population,SP.POP.TOTL,272489381.0,World Bank
+IDN,Indonesia,Asia,2019,Railway Infrastructure,IS.RRS.TOTL.KM,5483.0,World Bank
+IDN,Indonesia,Asia,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,1.01593221347809,World Bank
+IDN,Indonesia,Asia,2020,GNI per Capita,NY.GNP.PCAP.CD,3850.0,World Bank
+IDN,Indonesia,Asia,2020,Population,SP.POP.TOTL,274814866.0,World Bank
+IDN,Indonesia,Asia,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,1.03221750658374,World Bank
+IDN,Indonesia,Asia,2021,GNI per Capita,NY.GNP.PCAP.CD,4130.0,World Bank
+IDN,Indonesia,Asia,2021,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,150000000.0,World Bank
+IDN,Indonesia,Asia,2021,Population,SP.POP.TOTL,276758053.0,World Bank
+IDN,Indonesia,Asia,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,0.863943349575907,World Bank
+IDN,Indonesia,Asia,2022,GNI per Capita,NY.GNP.PCAP.CD,4520.0,World Bank
+IDN,Indonesia,Asia,2022,Population,SP.POP.TOTL,278830529.0,World Bank
+IDN,Indonesia,Asia,2023,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,1.27517088245674,World Bank
+IDN,Indonesia,Asia,2023,GNI per Capita,NY.GNP.PCAP.CD,4810.0,World Bank
+IDN,Indonesia,Asia,2023,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,171000000.0,World Bank
+IDN,Indonesia,Asia,2023,Population,SP.POP.TOTL,281190067.0,World Bank
+IDN,Indonesia,Asia,2024,GNI per Capita,NY.GNP.PCAP.CD,4910.0,World Bank
+IDN,Indonesia,Asia,2024,Population,SP.POP.TOTL,283487931.0,World Bank
+JOR,Jordan,Middle East,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.95461988449097,World Bank
+JOR,Jordan,Middle East,2018,GNI per Capita,NY.GNP.PCAP.CD,4090.0,World Bank
+JOR,Jordan,Middle East,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,165000000.0,World Bank
+JOR,Jordan,Middle East,2018,Population,SP.POP.TOTL,10462306.0,World Bank
+JOR,Jordan,Middle East,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.98846006393433,World Bank
+JOR,Jordan,Middle East,2019,GNI per Capita,NY.GNP.PCAP.CD,4190.0,World Bank
+JOR,Jordan,Middle East,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,74000000.0,World Bank
+JOR,Jordan,Middle East,2019,Population,SP.POP.TOTL,10671891.0,World Bank
+JOR,Jordan,Middle East,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.55303483980158,World Bank
+JOR,Jordan,Middle East,2020,GNI per Capita,NY.GNP.PCAP.CD,4070.0,World Bank
+JOR,Jordan,Middle East,2020,Population,SP.POP.TOTL,10865228.0,World Bank
+JOR,Jordan,Middle East,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.13837003707886,World Bank
+JOR,Jordan,Middle East,2021,GNI per Capita,NY.GNP.PCAP.CD,4240.0,World Bank
+JOR,Jordan,Middle East,2021,Population,SP.POP.TOTL,11066356.0,World Bank
+JOR,Jordan,Middle East,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.15300011634827,World Bank
+JOR,Jordan,Middle East,2022,GNI per Capita,NY.GNP.PCAP.CD,4380.0,World Bank
+JOR,Jordan,Middle East,2022,Population,SP.POP.TOTL,11256263.0,World Bank
+JOR,Jordan,Middle East,2023,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.51486315596325,World Bank
+JOR,Jordan,Middle East,2023,GNI per Capita,NY.GNP.PCAP.CD,4450.0,World Bank
+JOR,Jordan,Middle East,2023,Population,SP.POP.TOTL,11439213.0,World Bank
+JOR,Jordan,Middle East,2024,GNI per Capita,NY.GNP.PCAP.CD,4430.0,World Bank
+JOR,Jordan,Middle East,2024,Population,SP.POP.TOTL,11552876.0,World Bank
+KEN,Kenya,Africa,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.10761976242065,World Bank
+KEN,Kenya,Africa,2018,GNI per Capita,NY.GNP.PCAP.CD,1720.0,World Bank
+KEN,Kenya,Africa,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,300000000.0,World Bank
+KEN,Kenya,Africa,2018,Population,SP.POP.TOTL,50207107.0,World Bank
+KEN,Kenya,Africa,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.37359210998097,World Bank
+KEN,Kenya,Africa,2019,GNI per Capita,NY.GNP.PCAP.CD,1880.0,World Bank
+KEN,Kenya,Africa,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,220200000.0,World Bank
+KEN,Kenya,Africa,2019,Population,SP.POP.TOTL,51202827.0,World Bank
+KEN,Kenya,Africa,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.04574892454155,World Bank
+KEN,Kenya,Africa,2020,GNI per Capita,NY.GNP.PCAP.CD,1910.0,World Bank
+KEN,Kenya,Africa,2020,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,147160000.0,World Bank
+KEN,Kenya,Africa,2020,Population,SP.POP.TOTL,52217334.0,World Bank
+KEN,Kenya,Africa,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.89040202257195,World Bank
+KEN,Kenya,Africa,2021,GNI per Capita,NY.GNP.PCAP.CD,2070.0,World Bank
+KEN,Kenya,Africa,2021,Population,SP.POP.TOTL,53219166.0,World Bank
+KEN,Kenya,Africa,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.51101801829815,World Bank
+KEN,Kenya,Africa,2022,GNI per Capita,NY.GNP.PCAP.CD,2170.0,World Bank
+KEN,Kenya,Africa,2022,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,155600000.0,World Bank
+KEN,Kenya,Africa,2022,Population,SP.POP.TOTL,54252461.0,World Bank
+KEN,Kenya,Africa,2023,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.96229304413263,World Bank
+KEN,Kenya,Africa,2023,GNI per Capita,NY.GNP.PCAP.CD,2110.0,World Bank
+KEN,Kenya,Africa,2023,Population,SP.POP.TOTL,55339003.0,World Bank
+KEN,Kenya,Africa,2024,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.02242346098974,World Bank
+KEN,Kenya,Africa,2024,GNI per Capita,NY.GNP.PCAP.CD,2090.0,World Bank
+KEN,Kenya,Africa,2024,Population,SP.POP.TOTL,56432944.0,World Bank
+LBN,Lebanon,Middle East,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.6165251225734,World Bank
+LBN,Lebanon,Middle East,2018,GNI per Capita,NY.GNP.PCAP.CD,8700.0,World Bank
+LBN,Lebanon,Middle East,2018,Population,SP.POP.TOTL,5984119.0,World Bank
+LBN,Lebanon,Middle East,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.51957250612723,World Bank
+LBN,Lebanon,Middle East,2019,GNI per Capita,NY.GNP.PCAP.CD,8630.0,World Bank
+LBN,Lebanon,Middle East,2019,Population,SP.POP.TOTL,5794594.0,World Bank
+LBN,Lebanon,Middle East,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.4354185601396,World Bank
+LBN,Lebanon,Middle East,2020,GNI per Capita,NY.GNP.PCAP.CD,6350.0,World Bank
+LBN,Lebanon,Middle East,2020,Population,SP.POP.TOTL,5702398.0,World Bank
+LBN,Lebanon,Middle East,2021,GNI per Capita,NY.GNP.PCAP.CD,4770.0,World Bank
+LBN,Lebanon,Middle East,2021,Population,SP.POP.TOTL,5718122.0,World Bank
+LBN,Lebanon,Middle East,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,1.33151427628711,World Bank
+LBN,Lebanon,Middle East,2022,GNI per Capita,NY.GNP.PCAP.CD,4130.0,World Bank
+LBN,Lebanon,Middle East,2022,Population,SP.POP.TOTL,5744489.0,World Bank
+LBN,Lebanon,Middle East,2023,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,1.50416361108086,World Bank
+LBN,Lebanon,Middle East,2023,GNI per Capita,NY.GNP.PCAP.CD,3700.0,World Bank
+LBN,Lebanon,Middle East,2023,Population,SP.POP.TOTL,5773493.0,World Bank
+LBN,Lebanon,Middle East,2024,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,1.22490869993085,World Bank
+LBN,Lebanon,Middle East,2024,Population,SP.POP.TOTL,5805962.0,World Bank
+MYS,Malaysia,Asia,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.47865009307861,World Bank
+MYS,Malaysia,Asia,2018,GNI per Capita,NY.GNP.PCAP.CD,10200.0,World Bank
+MYS,Malaysia,Asia,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,143250000.0,World Bank
+MYS,Malaysia,Asia,2018,Population,SP.POP.TOTL,32910967.0,World Bank
+MYS,Malaysia,Asia,2018,Railway Infrastructure,IS.RRS.TOTL.KM,1655.0,World Bank
+MYS,Malaysia,Asia,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.15776014328003,World Bank
+MYS,Malaysia,Asia,2019,GNI per Capita,NY.GNP.PCAP.CD,10750.0,World Bank
+MYS,Malaysia,Asia,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,95030000.0,World Bank
+MYS,Malaysia,Asia,2019,Population,SP.POP.TOTL,33440596.0,World Bank
+MYS,Malaysia,Asia,2019,Railway Infrastructure,IS.RRS.TOTL.KM,1655.0,World Bank
+MYS,Malaysia,Asia,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.91176009178162,World Bank
+MYS,Malaysia,Asia,2020,GNI per Capita,NY.GNP.PCAP.CD,10110.0,World Bank
+MYS,Malaysia,Asia,2020,Population,SP.POP.TOTL,33889558.0,World Bank
+MYS,Malaysia,Asia,2020,Railway Infrastructure,IS.RRS.TOTL.KM,1655.0,World Bank
+MYS,Malaysia,Asia,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.26109393398867,World Bank
+MYS,Malaysia,Asia,2021,GNI per Capita,NY.GNP.PCAP.CD,10520.0,World Bank
+MYS,Malaysia,Asia,2021,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,1331500000.0,World Bank
+MYS,Malaysia,Asia,2021,Population,SP.POP.TOTL,34282399.0,World Bank
+MYS,Malaysia,Asia,2021,Railway Infrastructure,IS.RRS.TOTL.KM,1655.0,World Bank
+MYS,Malaysia,Asia,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.49933781956284,World Bank
+MYS,Malaysia,Asia,2022,GNI per Capita,NY.GNP.PCAP.CD,11620.0,World Bank
+MYS,Malaysia,Asia,2022,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,47660000.0,World Bank
+MYS,Malaysia,Asia,2022,Population,SP.POP.TOTL,34695493.0,World Bank
+MYS,Malaysia,Asia,2023,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.51480007171631,World Bank
+MYS,Malaysia,Asia,2023,GNI per Capita,NY.GNP.PCAP.CD,11700.0,World Bank
+MYS,Malaysia,Asia,2023,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,130790000.0,World Bank
+MYS,Malaysia,Asia,2023,Population,SP.POP.TOTL,35126298.0,World Bank
+MYS,Malaysia,Asia,2024,GNI per Capita,NY.GNP.PCAP.CD,11650.0,World Bank
+MYS,Malaysia,Asia,2024,Population,SP.POP.TOTL,35557673.0,World Bank
+MEX,Mexico,Latin America,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.13945007324219,World Bank
+MEX,Mexico,Latin America,2018,GNI per Capita,NY.GNP.PCAP.CD,9560.0,World Bank
+MEX,Mexico,Latin America,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,3597650000.0,World Bank
+MEX,Mexico,Latin America,2018,Population,SP.POP.TOTL,124573711.0,World Bank
+MEX,Mexico,Latin America,2019,GNI per Capita,NY.GNP.PCAP.CD,9860.0,World Bank
+MEX,Mexico,Latin America,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,2717210000.0,World Bank
+MEX,Mexico,Latin America,2019,Population,SP.POP.TOTL,125762982.0,World Bank
+MEX,Mexico,Latin America,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.49967002868652,World Bank
+MEX,Mexico,Latin America,2020,GNI per Capita,NY.GNP.PCAP.CD,8920.0,World Bank
+MEX,Mexico,Latin America,2020,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,4211500000.0,World Bank
+MEX,Mexico,Latin America,2020,Population,SP.POP.TOTL,126799054.0,World Bank
+MEX,Mexico,Latin America,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.23823022842407,World Bank
+MEX,Mexico,Latin America,2021,GNI per Capita,NY.GNP.PCAP.CD,9880.0,World Bank
+MEX,Mexico,Latin America,2021,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,448460000.0,World Bank
+MEX,Mexico,Latin America,2021,Population,SP.POP.TOTL,127648148.0,World Bank
+MEX,Mexico,Latin America,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.0658597946167,World Bank
+MEX,Mexico,Latin America,2022,GNI per Capita,NY.GNP.PCAP.CD,10730.0,World Bank
+MEX,Mexico,Latin America,2022,Population,SP.POP.TOTL,128613117.0,World Bank
+MEX,Mexico,Latin America,2023,GNI per Capita,NY.GNP.PCAP.CD,12020.0,World Bank
+MEX,Mexico,Latin America,2023,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,14650000.0,World Bank
+MEX,Mexico,Latin America,2023,Population,SP.POP.TOTL,129739759.0,World Bank
+MEX,Mexico,Latin America,2024,GNI per Capita,NY.GNP.PCAP.CD,12850.0,World Bank
+MEX,Mexico,Latin America,2024,Population,SP.POP.TOTL,130861007.0,World Bank
+NGA,Nigeria,Africa,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,0.419998493796127,World Bank
+NGA,Nigeria,Africa,2018,GNI per Capita,NY.GNP.PCAP.CD,1950.0,World Bank
+NGA,Nigeria,Africa,2018,Population,SP.POP.TOTL,204938755.0,World Bank
+NGA,Nigeria,Africa,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,0.358479005206684,World Bank
+NGA,Nigeria,Africa,2019,GNI per Capita,NY.GNP.PCAP.CD,2260.0,World Bank
+NGA,Nigeria,Africa,2019,Population,SP.POP.TOTL,209485641.0,World Bank
+NGA,Nigeria,Africa,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,0.35963763718498,World Bank
+NGA,Nigeria,Africa,2020,GNI per Capita,NY.GNP.PCAP.CD,2460.0,World Bank
+NGA,Nigeria,Africa,2020,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,2600000000.0,World Bank
+NGA,Nigeria,Africa,2020,Population,SP.POP.TOTL,213996181.0,World Bank
+NGA,Nigeria,Africa,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,0.381919104397325,World Bank
+NGA,Nigeria,Africa,2021,GNI per Capita,NY.GNP.PCAP.CD,2860.0,World Bank
+NGA,Nigeria,Africa,2021,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,40000000.0,World Bank
+NGA,Nigeria,Africa,2021,Population,SP.POP.TOTL,218529286.0,World Bank
+NGA,Nigeria,Africa,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,0.348516707890877,World Bank
+NGA,Nigeria,Africa,2022,GNI per Capita,NY.GNP.PCAP.CD,2930.0,World Bank
+NGA,Nigeria,Africa,2022,Population,SP.POP.TOTL,223150896.0,World Bank
+NGA,Nigeria,Africa,2023,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,0.319069049792343,World Bank
+NGA,Nigeria,Africa,2023,GNI per Capita,NY.GNP.PCAP.CD,2590.0,World Bank
+NGA,Nigeria,Africa,2023,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,116000000.0,World Bank
+NGA,Nigeria,Africa,2023,Population,SP.POP.TOTL,227882945.0,World Bank
+NGA,Nigeria,Africa,2024,GNI per Capita,NY.GNP.PCAP.CD,1700.0,World Bank
+NGA,Nigeria,Africa,2024,Population,SP.POP.TOTL,232679478.0,World Bank
+PER,Peru,Latin America,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.71392011642456,World Bank
+PER,Peru,Latin America,2018,GNI per Capita,NY.GNP.PCAP.CD,6500.0,World Bank
+PER,Peru,Latin America,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,311200000.0,World Bank
+PER,Peru,Latin America,2018,Population,SP.POP.TOTL,31897584.0,World Bank
+PER,Peru,Latin America,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.822429895401,World Bank
+PER,Peru,Latin America,2019,GNI per Capita,NY.GNP.PCAP.CD,6850.0,World Bank
+PER,Peru,Latin America,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,54000000.0,World Bank
+PER,Peru,Latin America,2019,Population,SP.POP.TOTL,32449303.0,World Bank
+PER,Peru,Latin America,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.25937986373901,World Bank
+PER,Peru,Latin America,2020,GNI per Capita,NY.GNP.PCAP.CD,6080.0,World Bank
+PER,Peru,Latin America,2020,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,100000000.0,World Bank
+PER,Peru,Latin America,2020,Population,SP.POP.TOTL,32838579.0,World Bank
+PER,Peru,Latin America,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.92721009254456,World Bank
+PER,Peru,Latin America,2021,GNI per Capita,NY.GNP.PCAP.CD,6550.0,World Bank
+PER,Peru,Latin America,2021,Population,SP.POP.TOTL,33155882.0,World Bank
+PER,Peru,Latin America,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.83315992355347,World Bank
+PER,Peru,Latin America,2022,GNI per Capita,NY.GNP.PCAP.CD,6920.0,World Bank
+PER,Peru,Latin America,2022,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,868400000.0,World Bank
+PER,Peru,Latin America,2022,Population,SP.POP.TOTL,33475438.0,World Bank
+PER,Peru,Latin America,2023,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.23516988754272,World Bank
+PER,Peru,Latin America,2023,GNI per Capita,NY.GNP.PCAP.CD,7080.0,World Bank
+PER,Peru,Latin America,2023,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,1787600000.0,World Bank
+PER,Peru,Latin America,2023,Population,SP.POP.TOTL,33845617.0,World Bank
+PER,Peru,Latin America,2024,GNI per Capita,NY.GNP.PCAP.CD,7500.0,World Bank
+PER,Peru,Latin America,2024,Population,SP.POP.TOTL,34217848.0,World Bank
+PHL,Philippines,Asia,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.85502760745456,World Bank
+PHL,Philippines,Asia,2018,GNI per Capita,NY.GNP.PCAP.CD,3610.0,World Bank
+PHL,Philippines,Asia,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,19120000.0,World Bank
+PHL,Philippines,Asia,2018,Population,SP.POP.TOTL,109465287.0,World Bank
+PHL,Philippines,Asia,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.40748649142134,World Bank
+PHL,Philippines,Asia,2019,GNI per Capita,NY.GNP.PCAP.CD,3760.0,World Bank
+PHL,Philippines,Asia,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,52500000.0,World Bank
+PHL,Philippines,Asia,2019,Population,SP.POP.TOTL,110804683.0,World Bank
+PHL,Philippines,Asia,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.85829051308063,World Bank
+PHL,Philippines,Asia,2020,GNI per Capita,NY.GNP.PCAP.CD,3350.0,World Bank
+PHL,Philippines,Asia,2020,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,59610000.0,World Bank
+PHL,Philippines,Asia,2020,Population,SP.POP.TOTL,112081264.0,World Bank
+PHL,Philippines,Asia,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.87249754784633,World Bank
+PHL,Philippines,Asia,2021,GNI per Capita,NY.GNP.PCAP.CD,3570.0,World Bank
+PHL,Philippines,Asia,2021,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,401710000.0,World Bank
+PHL,Philippines,Asia,2021,Population,SP.POP.TOTL,113100950.0,World Bank
+PHL,Philippines,Asia,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.57960089528426,World Bank
+PHL,Philippines,Asia,2022,GNI per Capita,NY.GNP.PCAP.CD,4010.0,World Bank
+PHL,Philippines,Asia,2022,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,245180000.0,World Bank
+PHL,Philippines,Asia,2022,Population,SP.POP.TOTL,113964338.0,World Bank
+PHL,Philippines,Asia,2023,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.6236863467978,World Bank
+PHL,Philippines,Asia,2023,GNI per Capita,NY.GNP.PCAP.CD,4320.0,World Bank
+PHL,Philippines,Asia,2023,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,2081560000.0,World Bank
+PHL,Philippines,Asia,2023,Population,SP.POP.TOTL,114891199.0,World Bank
+PHL,Philippines,Asia,2024,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.92501087473821,World Bank
+PHL,Philippines,Asia,2024,GNI per Capita,NY.GNP.PCAP.CD,4470.0,World Bank
+PHL,Philippines,Asia,2024,Population,SP.POP.TOTL,115843670.0,World Bank
+POL,Poland,Europe,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.55985021591187,World Bank
+POL,Poland,Europe,2018,GNI per Capita,NY.GNP.PCAP.CD,14310.0,World Bank
+POL,Poland,Europe,2018,Population,SP.POP.TOTL,37974750.0,World Bank
+POL,Poland,Europe,2018,Railway Infrastructure,IS.RRS.TOTL.KM,18536.0,World Bank
+POL,Poland,Europe,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.62736988067627,World Bank
+POL,Poland,Europe,2019,GNI per Capita,NY.GNP.PCAP.CD,15510.0,World Bank
+POL,Poland,Europe,2019,Population,SP.POP.TOTL,37965475.0,World Bank
+POL,Poland,Europe,2019,Railway Infrastructure,IS.RRS.TOTL.KM,18538.0,World Bank
+POL,Poland,Europe,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.80081987380981,World Bank
+POL,Poland,Europe,2020,GNI per Capita,NY.GNP.PCAP.CD,15640.0,World Bank
+POL,Poland,Europe,2020,Population,SP.POP.TOTL,37515748.0,World Bank
+POL,Poland,Europe,2020,Railway Infrastructure,IS.RRS.TOTL.KM,18611.0,World Bank
+POL,Poland,Europe,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.61998987197876,World Bank
+POL,Poland,Europe,2021,GNI per Capita,NY.GNP.PCAP.CD,17470.0,World Bank
+POL,Poland,Europe,2021,Population,SP.POP.TOTL,36981559.0,World Bank
+POL,Poland,Europe,2021,Railway Infrastructure,IS.RRS.TOTL.KM,18620.0,World Bank
+POL,Poland,Europe,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.31372976303101,World Bank
+POL,Poland,Europe,2022,GNI per Capita,NY.GNP.PCAP.CD,19110.0,World Bank
+POL,Poland,Europe,2022,Population,SP.POP.TOTL,36821749.0,World Bank
+POL,Poland,Europe,2023,GNI per Capita,NY.GNP.PCAP.CD,19890.0,World Bank
+POL,Poland,Europe,2023,Population,SP.POP.TOTL,36687353.0,World Bank
+POL,Poland,Europe,2024,GNI per Capita,NY.GNP.PCAP.CD,21590.0,World Bank
+POL,Poland,Europe,2024,Population,SP.POP.TOTL,36559233.0,World Bank
+ROU,Romania,Europe,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.31710004806519,World Bank
+ROU,Romania,Europe,2018,GNI per Capita,NY.GNP.PCAP.CD,11490.0,World Bank
+ROU,Romania,Europe,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,114600000.0,World Bank
+ROU,Romania,Europe,2018,Population,SP.POP.TOTL,19473970.0,World Bank
+ROU,Romania,Europe,2018,Railway Infrastructure,IS.RRS.TOTL.KM,10765.0,World Bank
+ROU,Romania,Europe,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.55761003494263,World Bank
+ROU,Romania,Europe,2019,GNI per Capita,NY.GNP.PCAP.CD,12660.0,World Bank
+ROU,Romania,Europe,2019,Population,SP.POP.TOTL,19371648.0,World Bank
+ROU,Romania,Europe,2019,Railway Infrastructure,IS.RRS.TOTL.KM,10759.0,World Bank
+ROU,Romania,Europe,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.57969999313354,World Bank
+ROU,Romania,Europe,2020,GNI per Capita,NY.GNP.PCAP.CD,12720.0,World Bank
+ROU,Romania,Europe,2020,Population,SP.POP.TOTL,19265250.0,World Bank
+ROU,Romania,Europe,2020,Railway Infrastructure,IS.RRS.TOTL.KM,10769.0,World Bank
+ROU,Romania,Europe,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.31561994552612,World Bank
+ROU,Romania,Europe,2021,GNI per Capita,NY.GNP.PCAP.CD,14180.0,World Bank
+ROU,Romania,Europe,2021,Population,SP.POP.TOTL,19122059.0,World Bank
+ROU,Romania,Europe,2021,Railway Infrastructure,IS.RRS.TOTL.KM,10769.0,World Bank
+ROU,Romania,Europe,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.2788200378418,World Bank
+ROU,Romania,Europe,2022,GNI per Capita,NY.GNP.PCAP.CD,15390.0,World Bank
+ROU,Romania,Europe,2022,Population,SP.POP.TOTL,19048502.0,World Bank
+ROU,Romania,Europe,2023,GNI per Capita,NY.GNP.PCAP.CD,16590.0,World Bank
+ROU,Romania,Europe,2023,Population,SP.POP.TOTL,19061062.0,World Bank
+ROU,Romania,Europe,2024,GNI per Capita,NY.GNP.PCAP.CD,17600.0,World Bank
+ROU,Romania,Europe,2024,Population,SP.POP.TOTL,19051804.0,World Bank
+ZAF,South Africa,Africa,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.64401006698608,World Bank
+ZAF,South Africa,Africa,2018,GNI per Capita,NY.GNP.PCAP.CD,6250.0,World Bank
+ZAF,South Africa,Africa,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,4316240000.0,World Bank
+ZAF,South Africa,Africa,2018,Population,SP.POP.TOTL,58613001.0,World Bank
+ZAF,South Africa,Africa,2018,Railway Infrastructure,IS.RRS.TOTL.KM,20953.0,World Bank
+ZAF,South Africa,Africa,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.9115800857544,World Bank
+ZAF,South Africa,Africa,2019,GNI per Capita,NY.GNP.PCAP.CD,6570.0,World Bank
+ZAF,South Africa,Africa,2019,Population,SP.POP.TOTL,59587885.0,World Bank
+ZAF,South Africa,Africa,2019,Railway Infrastructure,IS.RRS.TOTL.KM,20953.0,World Bank
+ZAF,South Africa,Africa,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,6.17067003250122,World Bank
+ZAF,South Africa,Africa,2020,GNI per Capita,NY.GNP.PCAP.CD,5930.0,World Bank
+ZAF,South Africa,Africa,2020,Population,SP.POP.TOTL,60562381.0,World Bank
+ZAF,South Africa,Africa,2020,Railway Infrastructure,IS.RRS.TOTL.KM,20953.0,World Bank
+ZAF,South Africa,Africa,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,6.5551700592041,World Bank
+ZAF,South Africa,Africa,2021,GNI per Capita,NY.GNP.PCAP.CD,6320.0,World Bank
+ZAF,South Africa,Africa,2021,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,826300000.0,World Bank
+ZAF,South Africa,Africa,2021,Population,SP.POP.TOTL,61502603.0,World Bank
+ZAF,South Africa,Africa,2021,Railway Infrastructure,IS.RRS.TOTL.KM,20953.0,World Bank
+ZAF,South Africa,Africa,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,6.15599012374878,World Bank
+ZAF,South Africa,Africa,2022,GNI per Capita,NY.GNP.PCAP.CD,6530.0,World Bank
+ZAF,South Africa,Africa,2022,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,1513030000.0,World Bank
+ZAF,South Africa,Africa,2022,Population,SP.POP.TOTL,62378410.0,World Bank
+ZAF,South Africa,Africa,2023,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,6.12346982955933,World Bank
+ZAF,South Africa,Africa,2023,GNI per Capita,NY.GNP.PCAP.CD,6490.0,World Bank
+ZAF,South Africa,Africa,2023,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,1010200000.0,World Bank
+ZAF,South Africa,Africa,2023,Population,SP.POP.TOTL,63212384.0,World Bank
+ZAF,South Africa,Africa,2024,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,6.02110004425049,World Bank
+ZAF,South Africa,Africa,2024,GNI per Capita,NY.GNP.PCAP.CD,6110.0,World Bank
+ZAF,South Africa,Africa,2024,Population,SP.POP.TOTL,64007187.0,World Bank
+THA,Thailand,Asia,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.19769395901619,World Bank
+THA,Thailand,Asia,2018,GNI per Capita,NY.GNP.PCAP.CD,6430.0,World Bank
+THA,Thailand,Asia,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,1706020000.0,World Bank
+THA,Thailand,Asia,2018,Population,SP.POP.TOTL,71376079.0,World Bank
+THA,Thailand,Asia,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.02221411183282,World Bank
+THA,Thailand,Asia,2019,GNI per Capita,NY.GNP.PCAP.CD,7060.0,World Bank
+THA,Thailand,Asia,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,1653340000.0,World Bank
+THA,Thailand,Asia,2019,Population,SP.POP.TOTL,71522271.0,World Bank
+THA,Thailand,Asia,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.15314171737183,World Bank
+THA,Thailand,Asia,2020,GNI per Capita,NY.GNP.PCAP.CD,6900.0,World Bank
+THA,Thailand,Asia,2020,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,254800000.0,World Bank
+THA,Thailand,Asia,2020,Population,SP.POP.TOTL,71641484.0,World Bank
+THA,Thailand,Asia,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.98212428478268,World Bank
+THA,Thailand,Asia,2021,GNI per Capita,NY.GNP.PCAP.CD,7090.0,World Bank
+THA,Thailand,Asia,2021,Population,SP.POP.TOTL,71727332.0,World Bank
+THA,Thailand,Asia,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.61187022798634,World Bank
+THA,Thailand,Asia,2022,GNI per Capita,NY.GNP.PCAP.CD,7210.0,World Bank
+THA,Thailand,Asia,2022,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,794510000.0,World Bank
+THA,Thailand,Asia,2022,Population,SP.POP.TOTL,71735329.0,World Bank
+THA,Thailand,Asia,2023,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.52122219628772,World Bank
+THA,Thailand,Asia,2023,GNI per Capita,NY.GNP.PCAP.CD,7190.0,World Bank
+THA,Thailand,Asia,2023,Population,SP.POP.TOTL,71702435.0,World Bank
+THA,Thailand,Asia,2024,GNI per Capita,NY.GNP.PCAP.CD,7100.0,World Bank
+THA,Thailand,Asia,2024,Population,SP.POP.TOTL,71668011.0,World Bank
+TUR,Turkey,Europe,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.29729986190796,World Bank
+TUR,Turkey,Europe,2018,GNI per Capita,NY.GNP.PCAP.CD,10760.0,World Bank
+TUR,Turkey,Europe,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,957510000.0,World Bank
+TUR,Turkey,Europe,2018,Population,SP.POP.TOTL,81407204.0,World Bank
+TUR,Turkey,Europe,2018,Railway Infrastructure,IS.RRS.TOTL.KM,10315.0,World Bank
+TUR,Turkey,Europe,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.44776010513306,World Bank
+TUR,Turkey,Europe,2019,GNI per Capita,NY.GNP.PCAP.CD,9970.0,World Bank
+TUR,Turkey,Europe,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,782950000.0,World Bank
+TUR,Turkey,Europe,2019,Population,SP.POP.TOTL,82579440.0,World Bank
+TUR,Turkey,Europe,2019,Railway Infrastructure,IS.RRS.TOTL.KM,10378.0,World Bank
+TUR,Turkey,Europe,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,4.03382015228271,World Bank
+TUR,Turkey,Europe,2020,GNI per Capita,NY.GNP.PCAP.CD,9330.0,World Bank
+TUR,Turkey,Europe,2020,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,408970000.0,World Bank
+TUR,Turkey,Europe,2020,Population,SP.POP.TOTL,83384680.0,World Bank
+TUR,Turkey,Europe,2020,Railway Infrastructure,IS.RRS.TOTL.KM,10378.0,World Bank
+TUR,Turkey,Europe,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.53787994384766,World Bank
+TUR,Turkey,Europe,2021,GNI per Capita,NY.GNP.PCAP.CD,10240.0,World Bank
+TUR,Turkey,Europe,2021,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,1134000000.0,World Bank
+TUR,Turkey,Europe,2021,Population,SP.POP.TOTL,84147318.0,World Bank
+TUR,Turkey,Europe,2021,Railway Infrastructure,IS.RRS.TOTL.KM,10546.0,World Bank
+TUR,Turkey,Europe,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.09572005271912,World Bank
+TUR,Turkey,Europe,2022,GNI per Capita,NY.GNP.PCAP.CD,10870.0,World Bank
+TUR,Turkey,Europe,2022,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,502000000.0,World Bank
+TUR,Turkey,Europe,2022,Population,SP.POP.TOTL,84979913.0,World Bank
+TUR,Turkey,Europe,2023,GNI per Capita,NY.GNP.PCAP.CD,11980.0,World Bank
+TUR,Turkey,Europe,2023,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,433820000.0,World Bank
+TUR,Turkey,Europe,2023,Population,SP.POP.TOTL,85325965.0,World Bank
+TUR,Turkey,Europe,2024,GNI per Capita,NY.GNP.PCAP.CD,13460.0,World Bank
+TUR,Turkey,Europe,2024,Population,SP.POP.TOTL,85518661.0,World Bank
+UKR,Ukraine,Europe,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.3199200630188,World Bank
+UKR,Ukraine,Europe,2018,GNI per Capita,NY.GNP.PCAP.CD,2720.0,World Bank
+UKR,Ukraine,Europe,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,669220000.0,World Bank
+UKR,Ukraine,Europe,2018,Population,SP.POP.TOTL,45208907.0,World Bank
+UKR,Ukraine,Europe,2018,Railway Infrastructure,IS.RRS.TOTL.KM,21625.9,World Bank
+UKR,Ukraine,Europe,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.44129991531372,World Bank
+UKR,Ukraine,Europe,2019,GNI per Capita,NY.GNP.PCAP.CD,3270.0,World Bank
+UKR,Ukraine,Europe,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,1348860000.0,World Bank
+UKR,Ukraine,Europe,2019,Population,SP.POP.TOTL,44957458.0,World Bank
+UKR,Ukraine,Europe,2019,Railway Infrastructure,IS.RRS.TOTL.KM,21625.9,World Bank
+UKR,Ukraine,Europe,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.38231992721558,World Bank
+UKR,Ukraine,Europe,2020,GNI per Capita,NY.GNP.PCAP.CD,3530.0,World Bank
+UKR,Ukraine,Europe,2020,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,15000000.0,World Bank
+UKR,Ukraine,Europe,2020,Population,SP.POP.TOTL,44680014.0,World Bank
+UKR,Ukraine,Europe,2020,Railway Infrastructure,IS.RRS.TOTL.KM,21625.9,World Bank
+UKR,Ukraine,Europe,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,5.14011001586914,World Bank
+UKR,Ukraine,Europe,2021,GNI per Capita,NY.GNP.PCAP.CD,4060.0,World Bank
+UKR,Ukraine,Europe,2021,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,1451000000.0,World Bank
+UKR,Ukraine,Europe,2021,Population,SP.POP.TOTL,44298640.0,World Bank
+UKR,Ukraine,Europe,2022,GNI per Capita,NY.GNP.PCAP.CD,3930.0,World Bank
+UKR,Ukraine,Europe,2022,Population,SP.POP.TOTL,41048766.0,World Bank
+UKR,Ukraine,Europe,2023,GNI per Capita,NY.GNP.PCAP.CD,4980.0,World Bank
+UKR,Ukraine,Europe,2023,Population,SP.POP.TOTL,37732836.0,World Bank
+UKR,Ukraine,Europe,2024,GNI per Capita,NY.GNP.PCAP.CD,5210.0,World Bank
+UKR,Ukraine,Europe,2024,Population,SP.POP.TOTL,37860221.0,World Bank
+VNM,Vietnam,Asia,2018,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.29537010192871,World Bank
+VNM,Vietnam,Asia,2018,GNI per Capita,NY.GNP.PCAP.CD,3020.0,World Bank
+VNM,Vietnam,Asia,2018,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,3645700000.0,World Bank
+VNM,Vietnam,Asia,2018,Population,SP.POP.TOTL,96237319.0,World Bank
+VNM,Vietnam,Asia,2018,Railway Infrastructure,IS.RRS.TOTL.KM,2382.0,World Bank
+VNM,Vietnam,Asia,2019,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.08499832693462,World Bank
+VNM,Vietnam,Asia,2019,GNI per Capita,NY.GNP.PCAP.CD,3290.0,World Bank
+VNM,Vietnam,Asia,2019,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,3180480000.0,World Bank
+VNM,Vietnam,Asia,2019,Population,SP.POP.TOTL,97173776.0,World Bank
+VNM,Vietnam,Asia,2019,Railway Infrastructure,IS.RRS.TOTL.KM,2481.0,World Bank
+VNM,Vietnam,Asia,2020,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,3.21652900152514,World Bank
+VNM,Vietnam,Asia,2020,GNI per Capita,NY.GNP.PCAP.CD,3400.0,World Bank
+VNM,Vietnam,Asia,2020,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,2302310000.0,World Bank
+VNM,Vietnam,Asia,2020,Population,SP.POP.TOTL,98079191.0,World Bank
+VNM,Vietnam,Asia,2020,Railway Infrastructure,IS.RRS.TOTL.KM,3159.0,World Bank
+VNM,Vietnam,Asia,2021,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.94517488804327,World Bank
+VNM,Vietnam,Asia,2021,GNI per Capita,NY.GNP.PCAP.CD,3540.0,World Bank
+VNM,Vietnam,Asia,2021,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,3913000000.0,World Bank
+VNM,Vietnam,Asia,2021,Population,SP.POP.TOTL,98935098.0,World Bank
+VNM,Vietnam,Asia,2021,Railway Infrastructure,IS.RRS.TOTL.KM,3159.0,World Bank
+VNM,Vietnam,Asia,2022,Education Expenditure (% of GDP),SE.XPD.TOTL.GD.ZS,2.88738689372749,World Bank
+VNM,Vietnam,Asia,2022,GNI per Capita,NY.GNP.PCAP.CD,3980.0,World Bank
+VNM,Vietnam,Asia,2022,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,2487160000.0,World Bank
+VNM,Vietnam,Asia,2022,Population,SP.POP.TOTL,99680655.0,World Bank
+VNM,Vietnam,Asia,2023,GNI per Capita,NY.GNP.PCAP.CD,4150.0,World Bank
+VNM,Vietnam,Asia,2023,Infrastructure Investment (Energy),IE.PPI.ENGY.CD,117000000.0,World Bank
+VNM,Vietnam,Asia,2023,Population,SP.POP.TOTL,100352192.0,World Bank
+VNM,Vietnam,Asia,2024,GNI per Capita,NY.GNP.PCAP.CD,4490.0,World Bank
+VNM,Vietnam,Asia,2024,Population,SP.POP.TOTL,100987686.0,World Bank
