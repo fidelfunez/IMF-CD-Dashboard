@@ -1,0 +1,1015 @@
+Country_Code,Country,Region,Year,Indicator_Name,Indicator_Code,Value,Source
+ARG,Argentina,Latin America,2018,Current Account Balance (% of GDP),BCA_NGDPD,-5.2,IMF
+ARG,Argentina,Latin America,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.4,IMF
+ARG,Argentina,Latin America,2018,GDP Growth Rate (Annual %),NGDP_RPCH,-2.6,IMF
+ARG,Argentina,Latin America,2018,Government Debt (% of GDP),GGXWDG_NGDP,85.2,IMF
+ARG,Argentina,Latin America,2018,Inflation Rate (CPI),PCPIPCH,34.3,IMF
+ARG,Argentina,Latin America,2018,Unemployment Rate,LUR,9.2,IMF
+ARG,Argentina,Latin America,2019,Current Account Balance (% of GDP),BCA_NGDPD,-0.8,IMF
+ARG,Argentina,Latin America,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.4,IMF
+ARG,Argentina,Latin America,2019,GDP Growth Rate (Annual %),NGDP_RPCH,-2.0,IMF
+ARG,Argentina,Latin America,2019,Government Debt (% of GDP),GGXWDG_NGDP,89.8,IMF
+ARG,Argentina,Latin America,2019,Inflation Rate (CPI),PCPIPCH,53.5,IMF
+ARG,Argentina,Latin America,2019,Unemployment Rate,LUR,9.8,IMF
+ARG,Argentina,Latin America,2020,Current Account Balance (% of GDP),BCA_NGDPD,0.7,IMF
+ARG,Argentina,Latin America,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-8.7,IMF
+ARG,Argentina,Latin America,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-9.9,IMF
+ARG,Argentina,Latin America,2020,Government Debt (% of GDP),GGXWDG_NGDP,103.8,IMF
+ARG,Argentina,Latin America,2020,Inflation Rate (CPI),PCPIPCH,42.0,IMF
+ARG,Argentina,Latin America,2020,Unemployment Rate,LUR,11.6,IMF
+ARG,Argentina,Latin America,2021,Current Account Balance (% of GDP),BCA_NGDPD,1.4,IMF
+ARG,Argentina,Latin America,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.3,IMF
+ARG,Argentina,Latin America,2021,GDP Growth Rate (Annual %),NGDP_RPCH,10.4,IMF
+ARG,Argentina,Latin America,2021,Government Debt (% of GDP),GGXWDG_NGDP,81.0,IMF
+ARG,Argentina,Latin America,2021,Inflation Rate (CPI),PCPIPCH,48.4,IMF
+ARG,Argentina,Latin America,2021,Unemployment Rate,LUR,8.8,IMF
+ARG,Argentina,Latin America,2022,Current Account Balance (% of GDP),BCA_NGDPD,-0.6,IMF
+ARG,Argentina,Latin America,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-3.8,IMF
+ARG,Argentina,Latin America,2022,GDP Growth Rate (Annual %),NGDP_RPCH,6.0,IMF
+ARG,Argentina,Latin America,2022,Government Debt (% of GDP),GGXWDG_NGDP,84.3,IMF
+ARG,Argentina,Latin America,2022,Inflation Rate (CPI),PCPIPCH,72.4,IMF
+ARG,Argentina,Latin America,2022,Unemployment Rate,LUR,6.8,IMF
+ARG,Argentina,Latin America,2023,Current Account Balance (% of GDP),BCA_NGDPD,-3.2,IMF
+ARG,Argentina,Latin America,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.3,IMF
+ARG,Argentina,Latin America,2023,GDP Growth Rate (Annual %),NGDP_RPCH,-1.9,IMF
+ARG,Argentina,Latin America,2023,Government Debt (% of GDP),GGXWDG_NGDP,154.6,IMF
+ARG,Argentina,Latin America,2023,Inflation Rate (CPI),PCPIPCH,133.5,IMF
+ARG,Argentina,Latin America,2023,Unemployment Rate,LUR,6.1,IMF
+ARG,Argentina,Latin America,2024,Current Account Balance (% of GDP),BCA_NGDPD,0.9,IMF
+ARG,Argentina,Latin America,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,0.5,IMF
+ARG,Argentina,Latin America,2024,GDP Growth Rate (Annual %),NGDP_RPCH,-1.3,IMF
+ARG,Argentina,Latin America,2024,Government Debt (% of GDP),GGXWDG_NGDP,84.7,IMF
+ARG,Argentina,Latin America,2024,Inflation Rate (CPI),PCPIPCH,219.9,IMF
+ARG,Argentina,Latin America,2024,Unemployment Rate,LUR,7.2,IMF
+BGD,Bangladesh,Asia,2018,Current Account Balance (% of GDP),BCA_NGDPD,-3.0,IMF
+BGD,Bangladesh,Asia,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.1,IMF
+BGD,Bangladesh,Asia,2018,GDP Growth Rate (Annual %),NGDP_RPCH,7.3,IMF
+BGD,Bangladesh,Asia,2018,Government Debt (% of GDP),GGXWDG_NGDP,29.6,IMF
+BGD,Bangladesh,Asia,2018,Inflation Rate (CPI),PCPIPCH,5.8,IMF
+BGD,Bangladesh,Asia,2019,Current Account Balance (% of GDP),BCA_NGDPD,-1.3,IMF
+BGD,Bangladesh,Asia,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.4,IMF
+BGD,Bangladesh,Asia,2019,GDP Growth Rate (Annual %),NGDP_RPCH,7.9,IMF
+BGD,Bangladesh,Asia,2019,Government Debt (% of GDP),GGXWDG_NGDP,32.0,IMF
+BGD,Bangladesh,Asia,2019,Inflation Rate (CPI),PCPIPCH,5.5,IMF
+BGD,Bangladesh,Asia,2020,Current Account Balance (% of GDP),BCA_NGDPD,-1.5,IMF
+BGD,Bangladesh,Asia,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.8,IMF
+BGD,Bangladesh,Asia,2020,GDP Growth Rate (Annual %),NGDP_RPCH,3.4,IMF
+BGD,Bangladesh,Asia,2020,Government Debt (% of GDP),GGXWDG_NGDP,34.5,IMF
+BGD,Bangladesh,Asia,2020,Inflation Rate (CPI),PCPIPCH,5.6,IMF
+BGD,Bangladesh,Asia,2021,Current Account Balance (% of GDP),BCA_NGDPD,-1.1,IMF
+BGD,Bangladesh,Asia,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-3.6,IMF
+BGD,Bangladesh,Asia,2021,GDP Growth Rate (Annual %),NGDP_RPCH,6.9,IMF
+BGD,Bangladesh,Asia,2021,Government Debt (% of GDP),GGXWDG_NGDP,35.6,IMF
+BGD,Bangladesh,Asia,2021,Inflation Rate (CPI),PCPIPCH,5.6,IMF
+BGD,Bangladesh,Asia,2022,Current Account Balance (% of GDP),BCA_NGDPD,-4.0,IMF
+BGD,Bangladesh,Asia,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.5,IMF
+BGD,Bangladesh,Asia,2022,GDP Growth Rate (Annual %),NGDP_RPCH,7.1,IMF
+BGD,Bangladesh,Asia,2022,Government Debt (% of GDP),GGXWDG_NGDP,37.9,IMF
+BGD,Bangladesh,Asia,2022,Inflation Rate (CPI),PCPIPCH,6.1,IMF
+BGD,Bangladesh,Asia,2023,Current Account Balance (% of GDP),BCA_NGDPD,-2.6,IMF
+BGD,Bangladesh,Asia,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.4,IMF
+BGD,Bangladesh,Asia,2023,GDP Growth Rate (Annual %),NGDP_RPCH,5.8,IMF
+BGD,Bangladesh,Asia,2023,Government Debt (% of GDP),GGXWDG_NGDP,39.7,IMF
+BGD,Bangladesh,Asia,2023,Inflation Rate (CPI),PCPIPCH,9.0,IMF
+BGD,Bangladesh,Asia,2024,Current Account Balance (% of GDP),BCA_NGDPD,-1.4,IMF
+BGD,Bangladesh,Asia,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-3.7,IMF
+BGD,Bangladesh,Asia,2024,GDP Growth Rate (Annual %),NGDP_RPCH,4.2,IMF
+BGD,Bangladesh,Asia,2024,Government Debt (% of GDP),GGXWDG_NGDP,41.0,IMF
+BGD,Bangladesh,Asia,2024,Inflation Rate (CPI),PCPIPCH,9.7,IMF
+BRA,Brazil,Latin America,2018,Current Account Balance (% of GDP),BCA_NGDPD,-2.8,IMF
+BRA,Brazil,Latin America,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.0,IMF
+BRA,Brazil,Latin America,2018,GDP Growth Rate (Annual %),NGDP_RPCH,1.8,IMF
+BRA,Brazil,Latin America,2018,Government Debt (% of GDP),GGXWDG_NGDP,84.8,IMF
+BRA,Brazil,Latin America,2018,Inflation Rate (CPI),PCPIPCH,3.7,IMF
+BRA,Brazil,Latin America,2018,Unemployment Rate,LUR,12.4,IMF
+BRA,Brazil,Latin America,2019,Current Account Balance (% of GDP),BCA_NGDPD,-3.5,IMF
+BRA,Brazil,Latin America,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.9,IMF
+BRA,Brazil,Latin America,2019,GDP Growth Rate (Annual %),NGDP_RPCH,1.2,IMF
+BRA,Brazil,Latin America,2019,Government Debt (% of GDP),GGXWDG_NGDP,87.1,IMF
+BRA,Brazil,Latin America,2019,Inflation Rate (CPI),PCPIPCH,3.7,IMF
+BRA,Brazil,Latin America,2019,Unemployment Rate,LUR,12.0,IMF
+BRA,Brazil,Latin America,2020,Current Account Balance (% of GDP),BCA_NGDPD,-1.7,IMF
+BRA,Brazil,Latin America,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-11.6,IMF
+BRA,Brazil,Latin America,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-3.3,IMF
+BRA,Brazil,Latin America,2020,Government Debt (% of GDP),GGXWDG_NGDP,96.0,IMF
+BRA,Brazil,Latin America,2020,Inflation Rate (CPI),PCPIPCH,3.2,IMF
+BRA,Brazil,Latin America,2020,Unemployment Rate,LUR,13.8,IMF
+BRA,Brazil,Latin America,2021,Current Account Balance (% of GDP),BCA_NGDPD,-2.4,IMF
+BRA,Brazil,Latin America,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.6,IMF
+BRA,Brazil,Latin America,2021,GDP Growth Rate (Annual %),NGDP_RPCH,4.8,IMF
+BRA,Brazil,Latin America,2021,Government Debt (% of GDP),GGXWDG_NGDP,88.9,IMF
+BRA,Brazil,Latin America,2021,Inflation Rate (CPI),PCPIPCH,8.3,IMF
+BRA,Brazil,Latin America,2021,Unemployment Rate,LUR,13.2,IMF
+BRA,Brazil,Latin America,2022,Current Account Balance (% of GDP),BCA_NGDPD,-2.2,IMF
+BRA,Brazil,Latin America,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.0,IMF
+BRA,Brazil,Latin America,2022,GDP Growth Rate (Annual %),NGDP_RPCH,3.0,IMF
+BRA,Brazil,Latin America,2022,Government Debt (% of GDP),GGXWDG_NGDP,83.9,IMF
+BRA,Brazil,Latin America,2022,Inflation Rate (CPI),PCPIPCH,9.3,IMF
+BRA,Brazil,Latin America,2022,Unemployment Rate,LUR,9.3,IMF
+BRA,Brazil,Latin America,2023,Current Account Balance (% of GDP),BCA_NGDPD,-1.3,IMF
+BRA,Brazil,Latin America,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.7,IMF
+BRA,Brazil,Latin America,2023,GDP Growth Rate (Annual %),NGDP_RPCH,3.2,IMF
+BRA,Brazil,Latin America,2023,Government Debt (% of GDP),GGXWDG_NGDP,84.0,IMF
+BRA,Brazil,Latin America,2023,Inflation Rate (CPI),PCPIPCH,4.6,IMF
+BRA,Brazil,Latin America,2023,Unemployment Rate,LUR,8.0,IMF
+BRA,Brazil,Latin America,2024,Current Account Balance (% of GDP),BCA_NGDPD,-2.7,IMF
+BRA,Brazil,Latin America,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-6.2,IMF
+BRA,Brazil,Latin America,2024,GDP Growth Rate (Annual %),NGDP_RPCH,3.4,IMF
+BRA,Brazil,Latin America,2024,Government Debt (% of GDP),GGXWDG_NGDP,87.3,IMF
+BRA,Brazil,Latin America,2024,Inflation Rate (CPI),PCPIPCH,4.4,IMF
+BRA,Brazil,Latin America,2024,Unemployment Rate,LUR,6.9,IMF
+CHL,Chile,Latin America,2018,Current Account Balance (% of GDP),BCA_NGDPD,-4.5,IMF
+CHL,Chile,Latin America,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-1.5,IMF
+CHL,Chile,Latin America,2018,GDP Growth Rate (Annual %),NGDP_RPCH,4.0,IMF
+CHL,Chile,Latin America,2018,Government Debt (% of GDP),GGXWDG_NGDP,25.8,IMF
+CHL,Chile,Latin America,2018,Inflation Rate (CPI),PCPIPCH,2.3,IMF
+CHL,Chile,Latin America,2018,Unemployment Rate,LUR,7.4,IMF
+CHL,Chile,Latin America,2019,Current Account Balance (% of GDP),BCA_NGDPD,-5.2,IMF
+CHL,Chile,Latin America,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.7,IMF
+CHL,Chile,Latin America,2019,GDP Growth Rate (Annual %),NGDP_RPCH,0.6,IMF
+CHL,Chile,Latin America,2019,Government Debt (% of GDP),GGXWDG_NGDP,28.3,IMF
+CHL,Chile,Latin America,2019,Inflation Rate (CPI),PCPIPCH,2.3,IMF
+CHL,Chile,Latin America,2019,Unemployment Rate,LUR,7.2,IMF
+CHL,Chile,Latin America,2020,Current Account Balance (% of GDP),BCA_NGDPD,-1.9,IMF
+CHL,Chile,Latin America,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.1,IMF
+CHL,Chile,Latin America,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-6.1,IMF
+CHL,Chile,Latin America,2020,Government Debt (% of GDP),GGXWDG_NGDP,32.4,IMF
+CHL,Chile,Latin America,2020,Inflation Rate (CPI),PCPIPCH,3.0,IMF
+CHL,Chile,Latin America,2020,Unemployment Rate,LUR,10.8,IMF
+CHL,Chile,Latin America,2021,Current Account Balance (% of GDP),BCA_NGDPD,-7.3,IMF
+CHL,Chile,Latin America,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.5,IMF
+CHL,Chile,Latin America,2021,GDP Growth Rate (Annual %),NGDP_RPCH,11.3,IMF
+CHL,Chile,Latin America,2021,Government Debt (% of GDP),GGXWDG_NGDP,36.4,IMF
+CHL,Chile,Latin America,2021,Inflation Rate (CPI),PCPIPCH,4.5,IMF
+CHL,Chile,Latin America,2021,Unemployment Rate,LUR,8.9,IMF
+CHL,Chile,Latin America,2022,Current Account Balance (% of GDP),BCA_NGDPD,-8.8,IMF
+CHL,Chile,Latin America,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,1.4,IMF
+CHL,Chile,Latin America,2022,GDP Growth Rate (Annual %),NGDP_RPCH,2.2,IMF
+CHL,Chile,Latin America,2022,Government Debt (% of GDP),GGXWDG_NGDP,37.9,IMF
+CHL,Chile,Latin America,2022,Inflation Rate (CPI),PCPIPCH,11.6,IMF
+CHL,Chile,Latin America,2022,Unemployment Rate,LUR,7.9,IMF
+CHL,Chile,Latin America,2023,Current Account Balance (% of GDP),BCA_NGDPD,-3.1,IMF
+CHL,Chile,Latin America,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.3,IMF
+CHL,Chile,Latin America,2023,GDP Growth Rate (Annual %),NGDP_RPCH,0.5,IMF
+CHL,Chile,Latin America,2023,Government Debt (% of GDP),GGXWDG_NGDP,39.4,IMF
+CHL,Chile,Latin America,2023,Inflation Rate (CPI),PCPIPCH,7.6,IMF
+CHL,Chile,Latin America,2023,Unemployment Rate,LUR,8.7,IMF
+CHL,Chile,Latin America,2024,Current Account Balance (% of GDP),BCA_NGDPD,-1.5,IMF
+CHL,Chile,Latin America,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.8,IMF
+CHL,Chile,Latin America,2024,GDP Growth Rate (Annual %),NGDP_RPCH,2.6,IMF
+CHL,Chile,Latin America,2024,Government Debt (% of GDP),GGXWDG_NGDP,41.7,IMF
+CHL,Chile,Latin America,2024,Inflation Rate (CPI),PCPIPCH,3.9,IMF
+CHL,Chile,Latin America,2024,Unemployment Rate,LUR,8.5,IMF
+COL,Colombia,Latin America,2018,Current Account Balance (% of GDP),BCA_NGDPD,-4.2,IMF
+COL,Colombia,Latin America,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.7,IMF
+COL,Colombia,Latin America,2018,GDP Growth Rate (Annual %),NGDP_RPCH,2.6,IMF
+COL,Colombia,Latin America,2018,Government Debt (% of GDP),GGXWDG_NGDP,51.8,IMF
+COL,Colombia,Latin America,2018,Inflation Rate (CPI),PCPIPCH,3.2,IMF
+COL,Colombia,Latin America,2018,Unemployment Rate,LUR,10.0,IMF
+COL,Colombia,Latin America,2019,Current Account Balance (% of GDP),BCA_NGDPD,-4.6,IMF
+COL,Colombia,Latin America,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-3.5,IMF
+COL,Colombia,Latin America,2019,GDP Growth Rate (Annual %),NGDP_RPCH,3.2,IMF
+COL,Colombia,Latin America,2019,Government Debt (% of GDP),GGXWDG_NGDP,51.0,IMF
+COL,Colombia,Latin America,2019,Inflation Rate (CPI),PCPIPCH,3.5,IMF
+COL,Colombia,Latin America,2019,Unemployment Rate,LUR,10.9,IMF
+COL,Colombia,Latin America,2020,Current Account Balance (% of GDP),BCA_NGDPD,-3.4,IMF
+COL,Colombia,Latin America,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.1,IMF
+COL,Colombia,Latin America,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-7.2,IMF
+COL,Colombia,Latin America,2020,Government Debt (% of GDP),GGXWDG_NGDP,65.3,IMF
+COL,Colombia,Latin America,2020,Inflation Rate (CPI),PCPIPCH,2.5,IMF
+COL,Colombia,Latin America,2020,Unemployment Rate,LUR,16.7,IMF
+COL,Colombia,Latin America,2021,Current Account Balance (% of GDP),BCA_NGDPD,-5.6,IMF
+COL,Colombia,Latin America,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.3,IMF
+COL,Colombia,Latin America,2021,GDP Growth Rate (Annual %),NGDP_RPCH,10.8,IMF
+COL,Colombia,Latin America,2021,Government Debt (% of GDP),GGXWDG_NGDP,64.4,IMF
+COL,Colombia,Latin America,2021,Inflation Rate (CPI),PCPIPCH,3.5,IMF
+COL,Colombia,Latin America,2021,Unemployment Rate,LUR,13.8,IMF
+COL,Colombia,Latin America,2022,Current Account Balance (% of GDP),BCA_NGDPD,-6.0,IMF
+COL,Colombia,Latin America,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-6.3,IMF
+COL,Colombia,Latin America,2022,GDP Growth Rate (Annual %),NGDP_RPCH,7.3,IMF
+COL,Colombia,Latin America,2022,Government Debt (% of GDP),GGXWDG_NGDP,61.3,IMF
+COL,Colombia,Latin America,2022,Inflation Rate (CPI),PCPIPCH,10.2,IMF
+COL,Colombia,Latin America,2022,Unemployment Rate,LUR,11.2,IMF
+COL,Colombia,Latin America,2023,Current Account Balance (% of GDP),BCA_NGDPD,-2.3,IMF
+COL,Colombia,Latin America,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.9,IMF
+COL,Colombia,Latin America,2023,GDP Growth Rate (Annual %),NGDP_RPCH,0.7,IMF
+COL,Colombia,Latin America,2023,Government Debt (% of GDP),GGXWDG_NGDP,55.5,IMF
+COL,Colombia,Latin America,2023,Inflation Rate (CPI),PCPIPCH,11.7,IMF
+COL,Colombia,Latin America,2023,Unemployment Rate,LUR,10.2,IMF
+COL,Colombia,Latin America,2024,Current Account Balance (% of GDP),BCA_NGDPD,-1.7,IMF
+COL,Colombia,Latin America,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-6.2,IMF
+COL,Colombia,Latin America,2024,GDP Growth Rate (Annual %),NGDP_RPCH,1.6,IMF
+COL,Colombia,Latin America,2024,Government Debt (% of GDP),GGXWDG_NGDP,61.2,IMF
+COL,Colombia,Latin America,2024,Inflation Rate (CPI),PCPIPCH,6.6,IMF
+COL,Colombia,Latin America,2024,Unemployment Rate,LUR,10.1,IMF
+EGY,Egypt,Africa,2018,Current Account Balance (% of GDP),BCA_NGDPD,-2.3,IMF
+EGY,Egypt,Africa,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-9.0,IMF
+EGY,Egypt,Africa,2018,GDP Growth Rate (Annual %),NGDP_RPCH,5.3,IMF
+EGY,Egypt,Africa,2018,Government Debt (% of GDP),GGXWDG_NGDP,87.9,IMF
+EGY,Egypt,Africa,2018,Inflation Rate (CPI),PCPIPCH,20.9,IMF
+EGY,Egypt,Africa,2018,Unemployment Rate,LUR,10.9,IMF
+EGY,Egypt,Africa,2019,Current Account Balance (% of GDP),BCA_NGDPD,-3.4,IMF
+EGY,Egypt,Africa,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.6,IMF
+EGY,Egypt,Africa,2019,GDP Growth Rate (Annual %),NGDP_RPCH,5.5,IMF
+EGY,Egypt,Africa,2019,Government Debt (% of GDP),GGXWDG_NGDP,80.1,IMF
+EGY,Egypt,Africa,2019,Inflation Rate (CPI),PCPIPCH,13.9,IMF
+EGY,Egypt,Africa,2019,Unemployment Rate,LUR,8.6,IMF
+EGY,Egypt,Africa,2020,Current Account Balance (% of GDP),BCA_NGDPD,-2.9,IMF
+EGY,Egypt,Africa,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.5,IMF
+EGY,Egypt,Africa,2020,GDP Growth Rate (Annual %),NGDP_RPCH,3.6,IMF
+EGY,Egypt,Africa,2020,Government Debt (% of GDP),GGXWDG_NGDP,86.2,IMF
+EGY,Egypt,Africa,2020,Inflation Rate (CPI),PCPIPCH,5.7,IMF
+EGY,Egypt,Africa,2020,Unemployment Rate,LUR,8.3,IMF
+EGY,Egypt,Africa,2021,Current Account Balance (% of GDP),BCA_NGDPD,-4.4,IMF
+EGY,Egypt,Africa,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.0,IMF
+EGY,Egypt,Africa,2021,GDP Growth Rate (Annual %),NGDP_RPCH,3.3,IMF
+EGY,Egypt,Africa,2021,Government Debt (% of GDP),GGXWDG_NGDP,89.9,IMF
+EGY,Egypt,Africa,2021,Inflation Rate (CPI),PCPIPCH,4.5,IMF
+EGY,Egypt,Africa,2021,Unemployment Rate,LUR,7.3,IMF
+EGY,Egypt,Africa,2022,Current Account Balance (% of GDP),BCA_NGDPD,-3.5,IMF
+EGY,Egypt,Africa,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.7,IMF
+EGY,Egypt,Africa,2022,GDP Growth Rate (Annual %),NGDP_RPCH,6.7,IMF
+EGY,Egypt,Africa,2022,Government Debt (% of GDP),GGXWDG_NGDP,88.5,IMF
+EGY,Egypt,Africa,2022,Inflation Rate (CPI),PCPIPCH,8.5,IMF
+EGY,Egypt,Africa,2022,Unemployment Rate,LUR,7.3,IMF
+EGY,Egypt,Africa,2023,Current Account Balance (% of GDP),BCA_NGDPD,-1.2,IMF
+EGY,Egypt,Africa,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.8,IMF
+EGY,Egypt,Africa,2023,GDP Growth Rate (Annual %),NGDP_RPCH,3.8,IMF
+EGY,Egypt,Africa,2023,Government Debt (% of GDP),GGXWDG_NGDP,95.9,IMF
+EGY,Egypt,Africa,2023,Inflation Rate (CPI),PCPIPCH,24.4,IMF
+EGY,Egypt,Africa,2023,Unemployment Rate,LUR,7.2,IMF
+EGY,Egypt,Africa,2024,Current Account Balance (% of GDP),BCA_NGDPD,-5.4,IMF
+EGY,Egypt,Africa,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.1,IMF
+EGY,Egypt,Africa,2024,GDP Growth Rate (Annual %),NGDP_RPCH,2.4,IMF
+EGY,Egypt,Africa,2024,Government Debt (% of GDP),GGXWDG_NGDP,90.9,IMF
+EGY,Egypt,Africa,2024,Inflation Rate (CPI),PCPIPCH,33.3,IMF
+EGY,Egypt,Africa,2024,Unemployment Rate,LUR,7.4,IMF
+ETH,Ethiopia,Africa,2018,Current Account Balance (% of GDP),BCA_NGDPD,-6.5,IMF
+ETH,Ethiopia,Africa,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-3.0,IMF
+ETH,Ethiopia,Africa,2018,GDP Growth Rate (Annual %),NGDP_RPCH,7.7,IMF
+ETH,Ethiopia,Africa,2018,Government Debt (% of GDP),GGXWDG_NGDP,58.4,IMF
+ETH,Ethiopia,Africa,2018,Inflation Rate (CPI),PCPIPCH,13.8,IMF
+ETH,Ethiopia,Africa,2019,Current Account Balance (% of GDP),BCA_NGDPD,-5.3,IMF
+ETH,Ethiopia,Africa,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.5,IMF
+ETH,Ethiopia,Africa,2019,GDP Growth Rate (Annual %),NGDP_RPCH,9.0,IMF
+ETH,Ethiopia,Africa,2019,Government Debt (% of GDP),GGXWDG_NGDP,54.7,IMF
+ETH,Ethiopia,Africa,2019,Inflation Rate (CPI),PCPIPCH,15.8,IMF
+ETH,Ethiopia,Africa,2020,Current Account Balance (% of GDP),BCA_NGDPD,-4.6,IMF
+ETH,Ethiopia,Africa,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.8,IMF
+ETH,Ethiopia,Africa,2020,GDP Growth Rate (Annual %),NGDP_RPCH,6.1,IMF
+ETH,Ethiopia,Africa,2020,Government Debt (% of GDP),GGXWDG_NGDP,53.7,IMF
+ETH,Ethiopia,Africa,2020,Inflation Rate (CPI),PCPIPCH,20.4,IMF
+ETH,Ethiopia,Africa,2021,Current Account Balance (% of GDP),BCA_NGDPD,-3.2,IMF
+ETH,Ethiopia,Africa,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.8,IMF
+ETH,Ethiopia,Africa,2021,GDP Growth Rate (Annual %),NGDP_RPCH,6.3,IMF
+ETH,Ethiopia,Africa,2021,Government Debt (% of GDP),GGXWDG_NGDP,53.8,IMF
+ETH,Ethiopia,Africa,2021,Inflation Rate (CPI),PCPIPCH,26.8,IMF
+ETH,Ethiopia,Africa,2022,Current Account Balance (% of GDP),BCA_NGDPD,-4.3,IMF
+ETH,Ethiopia,Africa,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.2,IMF
+ETH,Ethiopia,Africa,2022,GDP Growth Rate (Annual %),NGDP_RPCH,6.4,IMF
+ETH,Ethiopia,Africa,2022,Government Debt (% of GDP),GGXWDG_NGDP,46.9,IMF
+ETH,Ethiopia,Africa,2022,Inflation Rate (CPI),PCPIPCH,33.9,IMF
+ETH,Ethiopia,Africa,2023,Current Account Balance (% of GDP),BCA_NGDPD,-2.9,IMF
+ETH,Ethiopia,Africa,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.6,IMF
+ETH,Ethiopia,Africa,2023,GDP Growth Rate (Annual %),NGDP_RPCH,7.2,IMF
+ETH,Ethiopia,Africa,2023,Government Debt (% of GDP),GGXWDG_NGDP,38.7,IMF
+ETH,Ethiopia,Africa,2023,Inflation Rate (CPI),PCPIPCH,30.2,IMF
+ETH,Ethiopia,Africa,2024,Current Account Balance (% of GDP),BCA_NGDPD,-4.2,IMF
+ETH,Ethiopia,Africa,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.0,IMF
+ETH,Ethiopia,Africa,2024,GDP Growth Rate (Annual %),NGDP_RPCH,8.1,IMF
+ETH,Ethiopia,Africa,2024,Government Debt (% of GDP),GGXWDG_NGDP,32.7,IMF
+ETH,Ethiopia,Africa,2024,Inflation Rate (CPI),PCPIPCH,21.0,IMF
+GHA,Ghana,Africa,2018,Current Account Balance (% of GDP),BCA_NGDPD,-3.0,IMF
+GHA,Ghana,Africa,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-6.8,IMF
+GHA,Ghana,Africa,2018,GDP Growth Rate (Annual %),NGDP_RPCH,6.2,IMF
+GHA,Ghana,Africa,2018,Government Debt (% of GDP),GGXWDG_NGDP,62.0,IMF
+GHA,Ghana,Africa,2018,Inflation Rate (CPI),PCPIPCH,9.8,IMF
+GHA,Ghana,Africa,2019,Current Account Balance (% of GDP),BCA_NGDPD,-2.2,IMF
+GHA,Ghana,Africa,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.5,IMF
+GHA,Ghana,Africa,2019,GDP Growth Rate (Annual %),NGDP_RPCH,6.5,IMF
+GHA,Ghana,Africa,2019,Government Debt (% of GDP),GGXWDG_NGDP,62.9,IMF
+GHA,Ghana,Africa,2019,Inflation Rate (CPI),PCPIPCH,7.2,IMF
+GHA,Ghana,Africa,2020,Current Account Balance (% of GDP),BCA_NGDPD,-2.5,IMF
+GHA,Ghana,Africa,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-17.4,IMF
+GHA,Ghana,Africa,2020,GDP Growth Rate (Annual %),NGDP_RPCH,0.5,IMF
+GHA,Ghana,Africa,2020,Government Debt (% of GDP),GGXWDG_NGDP,79.1,IMF
+GHA,Ghana,Africa,2020,Inflation Rate (CPI),PCPIPCH,9.9,IMF
+GHA,Ghana,Africa,2021,Current Account Balance (% of GDP),BCA_NGDPD,-2.7,IMF
+GHA,Ghana,Africa,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-12.0,IMF
+GHA,Ghana,Africa,2021,GDP Growth Rate (Annual %),NGDP_RPCH,5.1,IMF
+GHA,Ghana,Africa,2021,Government Debt (% of GDP),GGXWDG_NGDP,86.9,IMF
+GHA,Ghana,Africa,2021,Inflation Rate (CPI),PCPIPCH,10.0,IMF
+GHA,Ghana,Africa,2022,Current Account Balance (% of GDP),BCA_NGDPD,-2.3,IMF
+GHA,Ghana,Africa,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-11.8,IMF
+GHA,Ghana,Africa,2022,GDP Growth Rate (Annual %),NGDP_RPCH,3.8,IMF
+GHA,Ghana,Africa,2022,Government Debt (% of GDP),GGXWDG_NGDP,92.7,IMF
+GHA,Ghana,Africa,2022,Inflation Rate (CPI),PCPIPCH,31.9,IMF
+GHA,Ghana,Africa,2023,Current Account Balance (% of GDP),BCA_NGDPD,-1.6,IMF
+GHA,Ghana,Africa,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-3.4,IMF
+GHA,Ghana,Africa,2023,GDP Growth Rate (Annual %),NGDP_RPCH,3.1,IMF
+GHA,Ghana,Africa,2023,Government Debt (% of GDP),GGXWDG_NGDP,79.1,IMF
+GHA,Ghana,Africa,2023,Inflation Rate (CPI),PCPIPCH,39.2,IMF
+GHA,Ghana,Africa,2024,Current Account Balance (% of GDP),BCA_NGDPD,1.1,IMF
+GHA,Ghana,Africa,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.3,IMF
+GHA,Ghana,Africa,2024,GDP Growth Rate (Annual %),NGDP_RPCH,5.7,IMF
+GHA,Ghana,Africa,2024,Government Debt (% of GDP),GGXWDG_NGDP,70.3,IMF
+GHA,Ghana,Africa,2024,Inflation Rate (CPI),PCPIPCH,22.9,IMF
+IND,India,Asia,2018,Current Account Balance (% of GDP),BCA_NGDPD,-2.1,IMF
+IND,India,Asia,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-6.3,IMF
+IND,India,Asia,2018,GDP Growth Rate (Annual %),NGDP_RPCH,6.5,IMF
+IND,India,Asia,2018,Government Debt (% of GDP),GGXWDG_NGDP,70.4,IMF
+IND,India,Asia,2018,Inflation Rate (CPI),PCPIPCH,3.4,IMF
+IND,India,Asia,2018,Unemployment Rate,LUR,8.9,IMF
+IND,India,Asia,2019,Current Account Balance (% of GDP),BCA_NGDPD,-0.9,IMF
+IND,India,Asia,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.7,IMF
+IND,India,Asia,2019,GDP Growth Rate (Annual %),NGDP_RPCH,3.9,IMF
+IND,India,Asia,2019,Government Debt (% of GDP),GGXWDG_NGDP,75.1,IMF
+IND,India,Asia,2019,Inflation Rate (CPI),PCPIPCH,4.8,IMF
+IND,India,Asia,2019,Unemployment Rate,LUR,7.5,IMF
+IND,India,Asia,2020,Current Account Balance (% of GDP),BCA_NGDPD,0.9,IMF
+IND,India,Asia,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-12.9,IMF
+IND,India,Asia,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-5.8,IMF
+IND,India,Asia,2020,Government Debt (% of GDP),GGXWDG_NGDP,88.4,IMF
+IND,India,Asia,2020,Inflation Rate (CPI),PCPIPCH,6.2,IMF
+IND,India,Asia,2020,Unemployment Rate,LUR,8.7,IMF
+IND,India,Asia,2021,Current Account Balance (% of GDP),BCA_NGDPD,-1.2,IMF
+IND,India,Asia,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-9.4,IMF
+IND,India,Asia,2021,GDP Growth Rate (Annual %),NGDP_RPCH,9.7,IMF
+IND,India,Asia,2021,Government Debt (% of GDP),GGXWDG_NGDP,83.5,IMF
+IND,India,Asia,2021,Inflation Rate (CPI),PCPIPCH,5.5,IMF
+IND,India,Asia,2021,Unemployment Rate,LUR,7.4,IMF
+IND,India,Asia,2022,Current Account Balance (% of GDP),BCA_NGDPD,-2.0,IMF
+IND,India,Asia,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-9.0,IMF
+IND,India,Asia,2022,GDP Growth Rate (Annual %),NGDP_RPCH,7.6,IMF
+IND,India,Asia,2022,Government Debt (% of GDP),GGXWDG_NGDP,82.2,IMF
+IND,India,Asia,2022,Inflation Rate (CPI),PCPIPCH,6.7,IMF
+IND,India,Asia,2022,Unemployment Rate,LUR,5.3,IMF
+IND,India,Asia,2023,Current Account Balance (% of GDP),BCA_NGDPD,-0.7,IMF
+IND,India,Asia,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.4,IMF
+IND,India,Asia,2023,GDP Growth Rate (Annual %),NGDP_RPCH,9.2,IMF
+IND,India,Asia,2023,Government Debt (% of GDP),GGXWDG_NGDP,80.7,IMF
+IND,India,Asia,2023,Inflation Rate (CPI),PCPIPCH,5.4,IMF
+IND,India,Asia,2023,Unemployment Rate,LUR,4.9,IMF
+IND,India,Asia,2024,Current Account Balance (% of GDP),BCA_NGDPD,-0.6,IMF
+IND,India,Asia,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.9,IMF
+IND,India,Asia,2024,GDP Growth Rate (Annual %),NGDP_RPCH,6.5,IMF
+IND,India,Asia,2024,Government Debt (% of GDP),GGXWDG_NGDP,81.6,IMF
+IND,India,Asia,2024,Inflation Rate (CPI),PCPIPCH,4.6,IMF
+IND,India,Asia,2024,Unemployment Rate,LUR,4.9,IMF
+IDN,Indonesia,Asia,2018,Current Account Balance (% of GDP),BCA_NGDPD,-2.9,IMF
+IDN,Indonesia,Asia,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-1.7,IMF
+IDN,Indonesia,Asia,2018,GDP Growth Rate (Annual %),NGDP_RPCH,5.2,IMF
+IDN,Indonesia,Asia,2018,Government Debt (% of GDP),GGXWDG_NGDP,30.4,IMF
+IDN,Indonesia,Asia,2018,Inflation Rate (CPI),PCPIPCH,3.3,IMF
+IDN,Indonesia,Asia,2018,Unemployment Rate,LUR,5.3,IMF
+IDN,Indonesia,Asia,2019,Current Account Balance (% of GDP),BCA_NGDPD,-2.7,IMF
+IDN,Indonesia,Asia,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.1,IMF
+IDN,Indonesia,Asia,2019,GDP Growth Rate (Annual %),NGDP_RPCH,5.0,IMF
+IDN,Indonesia,Asia,2019,Government Debt (% of GDP),GGXWDG_NGDP,30.6,IMF
+IDN,Indonesia,Asia,2019,Inflation Rate (CPI),PCPIPCH,2.8,IMF
+IDN,Indonesia,Asia,2019,Unemployment Rate,LUR,5.3,IMF
+IDN,Indonesia,Asia,2020,Current Account Balance (% of GDP),BCA_NGDPD,-0.4,IMF
+IDN,Indonesia,Asia,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-6.1,IMF
+IDN,Indonesia,Asia,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-2.1,IMF
+IDN,Indonesia,Asia,2020,Government Debt (% of GDP),GGXWDG_NGDP,39.7,IMF
+IDN,Indonesia,Asia,2020,Inflation Rate (CPI),PCPIPCH,2.0,IMF
+IDN,Indonesia,Asia,2020,Unemployment Rate,LUR,7.1,IMF
+IDN,Indonesia,Asia,2021,Current Account Balance (% of GDP),BCA_NGDPD,0.3,IMF
+IDN,Indonesia,Asia,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.4,IMF
+IDN,Indonesia,Asia,2021,GDP Growth Rate (Annual %),NGDP_RPCH,3.7,IMF
+IDN,Indonesia,Asia,2021,Government Debt (% of GDP),GGXWDG_NGDP,41.1,IMF
+IDN,Indonesia,Asia,2021,Inflation Rate (CPI),PCPIPCH,1.6,IMF
+IDN,Indonesia,Asia,2021,Unemployment Rate,LUR,6.5,IMF
+IDN,Indonesia,Asia,2022,Current Account Balance (% of GDP),BCA_NGDPD,1.0,IMF
+IDN,Indonesia,Asia,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.3,IMF
+IDN,Indonesia,Asia,2022,GDP Growth Rate (Annual %),NGDP_RPCH,5.3,IMF
+IDN,Indonesia,Asia,2022,Government Debt (% of GDP),GGXWDG_NGDP,40.1,IMF
+IDN,Indonesia,Asia,2022,Inflation Rate (CPI),PCPIPCH,4.1,IMF
+IDN,Indonesia,Asia,2022,Unemployment Rate,LUR,5.9,IMF
+IDN,Indonesia,Asia,2023,Current Account Balance (% of GDP),BCA_NGDPD,-0.1,IMF
+IDN,Indonesia,Asia,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-1.6,IMF
+IDN,Indonesia,Asia,2023,GDP Growth Rate (Annual %),NGDP_RPCH,5.0,IMF
+IDN,Indonesia,Asia,2023,Government Debt (% of GDP),GGXWDG_NGDP,39.6,IMF
+IDN,Indonesia,Asia,2023,Inflation Rate (CPI),PCPIPCH,3.7,IMF
+IDN,Indonesia,Asia,2023,Unemployment Rate,LUR,5.3,IMF
+IDN,Indonesia,Asia,2024,Current Account Balance (% of GDP),BCA_NGDPD,-0.6,IMF
+IDN,Indonesia,Asia,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.3,IMF
+IDN,Indonesia,Asia,2024,GDP Growth Rate (Annual %),NGDP_RPCH,5.0,IMF
+IDN,Indonesia,Asia,2024,Government Debt (% of GDP),GGXWDG_NGDP,40.2,IMF
+IDN,Indonesia,Asia,2024,Inflation Rate (CPI),PCPIPCH,2.3,IMF
+IDN,Indonesia,Asia,2024,Unemployment Rate,LUR,4.9,IMF
+JOR,Jordan,Middle East,2018,Current Account Balance (% of GDP),BCA_NGDPD,-6.8,IMF
+JOR,Jordan,Middle East,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.8,IMF
+JOR,Jordan,Middle East,2018,GDP Growth Rate (Annual %),NGDP_RPCH,1.9,IMF
+JOR,Jordan,Middle East,2018,Government Debt (% of GDP),GGXWDG_NGDP,87.4,IMF
+JOR,Jordan,Middle East,2018,Inflation Rate (CPI),PCPIPCH,4.5,IMF
+JOR,Jordan,Middle East,2018,Unemployment Rate,LUR,18.6,IMF
+JOR,Jordan,Middle East,2019,Current Account Balance (% of GDP),BCA_NGDPD,-1.7,IMF
+JOR,Jordan,Middle East,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.2,IMF
+JOR,Jordan,Middle East,2019,GDP Growth Rate (Annual %),NGDP_RPCH,1.8,IMF
+JOR,Jordan,Middle East,2019,Government Debt (% of GDP),GGXWDG_NGDP,92.9,IMF
+JOR,Jordan,Middle East,2019,Inflation Rate (CPI),PCPIPCH,0.8,IMF
+JOR,Jordan,Middle East,2019,Unemployment Rate,LUR,19.1,IMF
+JOR,Jordan,Middle East,2020,Current Account Balance (% of GDP),BCA_NGDPD,-5.7,IMF
+JOR,Jordan,Middle East,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-10.1,IMF
+JOR,Jordan,Middle East,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-1.1,IMF
+JOR,Jordan,Middle East,2020,Government Debt (% of GDP),GGXWDG_NGDP,104.5,IMF
+JOR,Jordan,Middle East,2020,Inflation Rate (CPI),PCPIPCH,0.3,IMF
+JOR,Jordan,Middle East,2020,Unemployment Rate,LUR,22.7,IMF
+JOR,Jordan,Middle East,2021,Current Account Balance (% of GDP),BCA_NGDPD,-8.0,IMF
+JOR,Jordan,Middle East,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-8.5,IMF
+JOR,Jordan,Middle East,2021,GDP Growth Rate (Annual %),NGDP_RPCH,3.7,IMF
+JOR,Jordan,Middle East,2021,Government Debt (% of GDP),GGXWDG_NGDP,87.6,IMF
+JOR,Jordan,Middle East,2021,Inflation Rate (CPI),PCPIPCH,1.3,IMF
+JOR,Jordan,Middle East,2021,Unemployment Rate,LUR,24.1,IMF
+JOR,Jordan,Middle East,2022,Current Account Balance (% of GDP),BCA_NGDPD,-8.1,IMF
+JOR,Jordan,Middle East,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-6.8,IMF
+JOR,Jordan,Middle East,2022,GDP Growth Rate (Annual %),NGDP_RPCH,2.6,IMF
+JOR,Jordan,Middle East,2022,Government Debt (% of GDP),GGXWDG_NGDP,88.6,IMF
+JOR,Jordan,Middle East,2022,Inflation Rate (CPI),PCPIPCH,4.2,IMF
+JOR,Jordan,Middle East,2022,Unemployment Rate,LUR,22.9,IMF
+JOR,Jordan,Middle East,2023,Current Account Balance (% of GDP),BCA_NGDPD,-3.6,IMF
+JOR,Jordan,Middle East,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-6.9,IMF
+JOR,Jordan,Middle East,2023,GDP Growth Rate (Annual %),NGDP_RPCH,2.9,IMF
+JOR,Jordan,Middle East,2023,Government Debt (% of GDP),GGXWDG_NGDP,89.0,IMF
+JOR,Jordan,Middle East,2023,Inflation Rate (CPI),PCPIPCH,2.1,IMF
+JOR,Jordan,Middle East,2023,Unemployment Rate,LUR,22.0,IMF
+JOR,Jordan,Middle East,2024,Current Account Balance (% of GDP),BCA_NGDPD,-5.9,IMF
+JOR,Jordan,Middle East,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.3,IMF
+JOR,Jordan,Middle East,2024,GDP Growth Rate (Annual %),NGDP_RPCH,2.5,IMF
+JOR,Jordan,Middle East,2024,Government Debt (% of GDP),GGXWDG_NGDP,90.2,IMF
+JOR,Jordan,Middle East,2024,Inflation Rate (CPI),PCPIPCH,1.6,IMF
+KEN,Kenya,Africa,2018,Current Account Balance (% of GDP),BCA_NGDPD,-4.0,IMF
+KEN,Kenya,Africa,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-6.9,IMF
+KEN,Kenya,Africa,2018,GDP Growth Rate (Annual %),NGDP_RPCH,5.7,IMF
+KEN,Kenya,Africa,2018,Government Debt (% of GDP),GGXWDG_NGDP,56.4,IMF
+KEN,Kenya,Africa,2018,Inflation Rate (CPI),PCPIPCH,4.7,IMF
+KEN,Kenya,Africa,2019,Current Account Balance (% of GDP),BCA_NGDPD,-2.2,IMF
+KEN,Kenya,Africa,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.4,IMF
+KEN,Kenya,Africa,2019,GDP Growth Rate (Annual %),NGDP_RPCH,5.1,IMF
+KEN,Kenya,Africa,2019,Government Debt (% of GDP),GGXWDG_NGDP,59.1,IMF
+KEN,Kenya,Africa,2019,Inflation Rate (CPI),PCPIPCH,5.2,IMF
+KEN,Kenya,Africa,2020,Current Account Balance (% of GDP),BCA_NGDPD,-3.7,IMF
+KEN,Kenya,Africa,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-8.1,IMF
+KEN,Kenya,Africa,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-0.3,IMF
+KEN,Kenya,Africa,2020,Government Debt (% of GDP),GGXWDG_NGDP,68.0,IMF
+KEN,Kenya,Africa,2020,Inflation Rate (CPI),PCPIPCH,5.3,IMF
+KEN,Kenya,Africa,2021,Current Account Balance (% of GDP),BCA_NGDPD,-5.1,IMF
+KEN,Kenya,Africa,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.2,IMF
+KEN,Kenya,Africa,2021,GDP Growth Rate (Annual %),NGDP_RPCH,7.6,IMF
+KEN,Kenya,Africa,2021,Government Debt (% of GDP),GGXWDG_NGDP,68.2,IMF
+KEN,Kenya,Africa,2021,Inflation Rate (CPI),PCPIPCH,6.1,IMF
+KEN,Kenya,Africa,2022,Current Account Balance (% of GDP),BCA_NGDPD,-5.1,IMF
+KEN,Kenya,Africa,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-6.1,IMF
+KEN,Kenya,Africa,2022,GDP Growth Rate (Annual %),NGDP_RPCH,4.9,IMF
+KEN,Kenya,Africa,2022,Government Debt (% of GDP),GGXWDG_NGDP,67.8,IMF
+KEN,Kenya,Africa,2022,Inflation Rate (CPI),PCPIPCH,7.6,IMF
+KEN,Kenya,Africa,2023,Current Account Balance (% of GDP),BCA_NGDPD,-3.6,IMF
+KEN,Kenya,Africa,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.7,IMF
+KEN,Kenya,Africa,2023,GDP Growth Rate (Annual %),NGDP_RPCH,5.7,IMF
+KEN,Kenya,Africa,2023,Government Debt (% of GDP),GGXWDG_NGDP,73.4,IMF
+KEN,Kenya,Africa,2023,Inflation Rate (CPI),PCPIPCH,7.7,IMF
+KEN,Kenya,Africa,2024,Current Account Balance (% of GDP),BCA_NGDPD,-2.3,IMF
+KEN,Kenya,Africa,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.8,IMF
+KEN,Kenya,Africa,2024,GDP Growth Rate (Annual %),NGDP_RPCH,4.7,IMF
+KEN,Kenya,Africa,2024,Government Debt (% of GDP),GGXWDG_NGDP,67.3,IMF
+KEN,Kenya,Africa,2024,Inflation Rate (CPI),PCPIPCH,4.5,IMF
+LBN,Lebanon,Middle East,2018,Current Account Balance (% of GDP),BCA_NGDPD,-24.3,IMF
+LBN,Lebanon,Middle East,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-11.3,IMF
+LBN,Lebanon,Middle East,2018,GDP Growth Rate (Annual %),NGDP_RPCH,-1.9,IMF
+LBN,Lebanon,Middle East,2018,Government Debt (% of GDP),GGXWDG_NGDP,155.1,IMF
+LBN,Lebanon,Middle East,2018,Inflation Rate (CPI),PCPIPCH,6.1,IMF
+LBN,Lebanon,Middle East,2018,Unemployment Rate,LUR,10.7,IMF
+LBN,Lebanon,Middle East,2019,Current Account Balance (% of GDP),BCA_NGDPD,-21.8,IMF
+LBN,Lebanon,Middle East,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-10.5,IMF
+LBN,Lebanon,Middle East,2019,GDP Growth Rate (Annual %),NGDP_RPCH,-6.8,IMF
+LBN,Lebanon,Middle East,2019,Government Debt (% of GDP),GGXWDG_NGDP,172.1,IMF
+LBN,Lebanon,Middle East,2019,Inflation Rate (CPI),PCPIPCH,2.9,IMF
+LBN,Lebanon,Middle East,2019,Unemployment Rate,LUR,11.3,IMF
+LBN,Lebanon,Middle East,2020,Current Account Balance (% of GDP),BCA_NGDPD,-11.1,IMF
+LBN,Lebanon,Middle East,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.4,IMF
+LBN,Lebanon,Middle East,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-24.6,IMF
+LBN,Lebanon,Middle East,2020,Government Debt (% of GDP),GGXWDG_NGDP,148.7,IMF
+LBN,Lebanon,Middle East,2020,Inflation Rate (CPI),PCPIPCH,84.9,IMF
+LBN,Lebanon,Middle East,2020,Unemployment Rate,LUR,13.3,IMF
+LBN,Lebanon,Middle East,2021,Current Account Balance (% of GDP),BCA_NGDPD,-23.0,IMF
+LBN,Lebanon,Middle East,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.7,IMF
+LBN,Lebanon,Middle East,2021,GDP Growth Rate (Annual %),NGDP_RPCH,2.0,IMF
+LBN,Lebanon,Middle East,2021,Government Debt (% of GDP),GGXWDG_NGDP,358.2,IMF
+LBN,Lebanon,Middle East,2021,Inflation Rate (CPI),PCPIPCH,154.8,IMF
+LBN,Lebanon,Middle East,2021,Unemployment Rate,LUR,12.7,IMF
+LBN,Lebanon,Middle East,2022,Current Account Balance (% of GDP),BCA_NGDPD,-30.0,IMF
+LBN,Lebanon,Middle East,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-7.8,IMF
+LBN,Lebanon,Middle East,2022,GDP Growth Rate (Annual %),NGDP_RPCH,1.0,IMF
+LBN,Lebanon,Middle East,2022,Government Debt (% of GDP),GGXWDG_NGDP,244.6,IMF
+LBN,Lebanon,Middle East,2022,Inflation Rate (CPI),PCPIPCH,171.2,IMF
+LBN,Lebanon,Middle East,2022,Unemployment Rate,LUR,11.6,IMF
+LBN,Lebanon,Middle East,2023,Current Account Balance (% of GDP),BCA_NGDPD,-24.9,IMF
+LBN,Lebanon,Middle East,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-1.7,IMF
+LBN,Lebanon,Middle East,2023,GDP Growth Rate (Annual %),NGDP_RPCH,-0.7,IMF
+LBN,Lebanon,Middle East,2023,Government Debt (% of GDP),GGXWDG_NGDP,192.8,IMF
+LBN,Lebanon,Middle East,2023,Inflation Rate (CPI),PCPIPCH,221.3,IMF
+LBN,Lebanon,Middle East,2023,Unemployment Rate,LUR,11.5,IMF
+LBN,Lebanon,Middle East,2024,Current Account Balance (% of GDP),BCA_NGDPD,-19.7,IMF
+LBN,Lebanon,Middle East,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-0.2,IMF
+LBN,Lebanon,Middle East,2024,GDP Growth Rate (Annual %),NGDP_RPCH,-7.5,IMF
+LBN,Lebanon,Middle East,2024,Government Debt (% of GDP),GGXWDG_NGDP,163.8,IMF
+LBN,Lebanon,Middle East,2024,Inflation Rate (CPI),PCPIPCH,45.2,IMF
+MYS,Malaysia,Asia,2018,Current Account Balance (% of GDP),BCA_NGDPD,2.2,IMF
+MYS,Malaysia,Asia,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.6,IMF
+MYS,Malaysia,Asia,2018,GDP Growth Rate (Annual %),NGDP_RPCH,4.8,IMF
+MYS,Malaysia,Asia,2018,Government Debt (% of GDP),GGXWDG_NGDP,55.6,IMF
+MYS,Malaysia,Asia,2018,Inflation Rate (CPI),PCPIPCH,1.0,IMF
+MYS,Malaysia,Asia,2018,Unemployment Rate,LUR,3.3,IMF
+MYS,Malaysia,Asia,2019,Current Account Balance (% of GDP),BCA_NGDPD,3.5,IMF
+MYS,Malaysia,Asia,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.0,IMF
+MYS,Malaysia,Asia,2019,GDP Growth Rate (Annual %),NGDP_RPCH,4.4,IMF
+MYS,Malaysia,Asia,2019,Government Debt (% of GDP),GGXWDG_NGDP,57.1,IMF
+MYS,Malaysia,Asia,2019,Inflation Rate (CPI),PCPIPCH,0.7,IMF
+MYS,Malaysia,Asia,2019,Unemployment Rate,LUR,3.3,IMF
+MYS,Malaysia,Asia,2020,Current Account Balance (% of GDP),BCA_NGDPD,4.2,IMF
+MYS,Malaysia,Asia,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.9,IMF
+MYS,Malaysia,Asia,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-5.5,IMF
+MYS,Malaysia,Asia,2020,Government Debt (% of GDP),GGXWDG_NGDP,67.7,IMF
+MYS,Malaysia,Asia,2020,Inflation Rate (CPI),PCPIPCH,-1.1,IMF
+MYS,Malaysia,Asia,2020,Unemployment Rate,LUR,4.5,IMF
+MYS,Malaysia,Asia,2021,Current Account Balance (% of GDP),BCA_NGDPD,3.9,IMF
+MYS,Malaysia,Asia,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-6.0,IMF
+MYS,Malaysia,Asia,2021,GDP Growth Rate (Annual %),NGDP_RPCH,3.3,IMF
+MYS,Malaysia,Asia,2021,Government Debt (% of GDP),GGXWDG_NGDP,69.2,IMF
+MYS,Malaysia,Asia,2021,Inflation Rate (CPI),PCPIPCH,2.5,IMF
+MYS,Malaysia,Asia,2021,Unemployment Rate,LUR,4.6,IMF
+MYS,Malaysia,Asia,2022,Current Account Balance (% of GDP),BCA_NGDPD,3.2,IMF
+MYS,Malaysia,Asia,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.6,IMF
+MYS,Malaysia,Asia,2022,GDP Growth Rate (Annual %),NGDP_RPCH,9.0,IMF
+MYS,Malaysia,Asia,2022,Government Debt (% of GDP),GGXWDG_NGDP,65.5,IMF
+MYS,Malaysia,Asia,2022,Inflation Rate (CPI),PCPIPCH,3.4,IMF
+MYS,Malaysia,Asia,2022,Unemployment Rate,LUR,3.9,IMF
+MYS,Malaysia,Asia,2023,Current Account Balance (% of GDP),BCA_NGDPD,1.1,IMF
+MYS,Malaysia,Asia,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.0,IMF
+MYS,Malaysia,Asia,2023,GDP Growth Rate (Annual %),NGDP_RPCH,3.5,IMF
+MYS,Malaysia,Asia,2023,Government Debt (% of GDP),GGXWDG_NGDP,69.7,IMF
+MYS,Malaysia,Asia,2023,Inflation Rate (CPI),PCPIPCH,2.5,IMF
+MYS,Malaysia,Asia,2023,Unemployment Rate,LUR,3.2,IMF
+MYS,Malaysia,Asia,2024,Current Account Balance (% of GDP),BCA_NGDPD,1.4,IMF
+MYS,Malaysia,Asia,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-3.9,IMF
+MYS,Malaysia,Asia,2024,GDP Growth Rate (Annual %),NGDP_RPCH,5.1,IMF
+MYS,Malaysia,Asia,2024,Government Debt (% of GDP),GGXWDG_NGDP,70.1,IMF
+MYS,Malaysia,Asia,2024,Inflation Rate (CPI),PCPIPCH,1.8,IMF
+MYS,Malaysia,Asia,2024,Unemployment Rate,LUR,3.2,IMF
+MEX,Mexico,Latin America,2018,Current Account Balance (% of GDP),BCA_NGDPD,-2.1,IMF
+MEX,Mexico,Latin America,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.1,IMF
+MEX,Mexico,Latin America,2018,GDP Growth Rate (Annual %),NGDP_RPCH,2.0,IMF
+MEX,Mexico,Latin America,2018,Government Debt (% of GDP),GGXWDG_NGDP,52.2,IMF
+MEX,Mexico,Latin America,2018,Inflation Rate (CPI),PCPIPCH,4.9,IMF
+MEX,Mexico,Latin America,2018,Unemployment Rate,LUR,3.3,IMF
+MEX,Mexico,Latin America,2019,Current Account Balance (% of GDP),BCA_NGDPD,-0.3,IMF
+MEX,Mexico,Latin America,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.3,IMF
+MEX,Mexico,Latin America,2019,GDP Growth Rate (Annual %),NGDP_RPCH,-0.4,IMF
+MEX,Mexico,Latin America,2019,Government Debt (% of GDP),GGXWDG_NGDP,51.9,IMF
+MEX,Mexico,Latin America,2019,Inflation Rate (CPI),PCPIPCH,3.6,IMF
+MEX,Mexico,Latin America,2019,Unemployment Rate,LUR,3.5,IMF
+MEX,Mexico,Latin America,2020,Current Account Balance (% of GDP),BCA_NGDPD,2.4,IMF
+MEX,Mexico,Latin America,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.3,IMF
+MEX,Mexico,Latin America,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-8.4,IMF
+MEX,Mexico,Latin America,2020,Government Debt (% of GDP),GGXWDG_NGDP,58.5,IMF
+MEX,Mexico,Latin America,2020,Inflation Rate (CPI),PCPIPCH,3.4,IMF
+MEX,Mexico,Latin America,2020,Unemployment Rate,LUR,4.4,IMF
+MEX,Mexico,Latin America,2021,Current Account Balance (% of GDP),BCA_NGDPD,-0.3,IMF
+MEX,Mexico,Latin America,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-3.7,IMF
+MEX,Mexico,Latin America,2021,GDP Growth Rate (Annual %),NGDP_RPCH,6.0,IMF
+MEX,Mexico,Latin America,2021,Government Debt (% of GDP),GGXWDG_NGDP,56.7,IMF
+MEX,Mexico,Latin America,2021,Inflation Rate (CPI),PCPIPCH,5.7,IMF
+MEX,Mexico,Latin America,2021,Unemployment Rate,LUR,4.1,IMF
+MEX,Mexico,Latin America,2022,Current Account Balance (% of GDP),BCA_NGDPD,-1.3,IMF
+MEX,Mexico,Latin America,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.3,IMF
+MEX,Mexico,Latin America,2022,GDP Growth Rate (Annual %),NGDP_RPCH,3.7,IMF
+MEX,Mexico,Latin America,2022,Government Debt (% of GDP),GGXWDG_NGDP,53.8,IMF
+MEX,Mexico,Latin America,2022,Inflation Rate (CPI),PCPIPCH,7.9,IMF
+MEX,Mexico,Latin America,2022,Unemployment Rate,LUR,3.3,IMF
+MEX,Mexico,Latin America,2023,Current Account Balance (% of GDP),BCA_NGDPD,-0.7,IMF
+MEX,Mexico,Latin America,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.3,IMF
+MEX,Mexico,Latin America,2023,GDP Growth Rate (Annual %),NGDP_RPCH,3.4,IMF
+MEX,Mexico,Latin America,2023,Government Debt (% of GDP),GGXWDG_NGDP,52.6,IMF
+MEX,Mexico,Latin America,2023,Inflation Rate (CPI),PCPIPCH,5.5,IMF
+MEX,Mexico,Latin America,2023,Unemployment Rate,LUR,2.8,IMF
+MEX,Mexico,Latin America,2024,Current Account Balance (% of GDP),BCA_NGDPD,-0.9,IMF
+MEX,Mexico,Latin America,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.7,IMF
+MEX,Mexico,Latin America,2024,GDP Growth Rate (Annual %),NGDP_RPCH,1.4,IMF
+MEX,Mexico,Latin America,2024,Government Debt (% of GDP),GGXWDG_NGDP,58.3,IMF
+MEX,Mexico,Latin America,2024,Inflation Rate (CPI),PCPIPCH,4.7,IMF
+MEX,Mexico,Latin America,2024,Unemployment Rate,LUR,2.7,IMF
+NGA,Nigeria,Africa,2018,Current Account Balance (% of GDP),BCA_NGDPD,1.2,IMF
+NGA,Nigeria,Africa,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-3.1,IMF
+NGA,Nigeria,Africa,2018,GDP Growth Rate (Annual %),NGDP_RPCH,1.9,IMF
+NGA,Nigeria,Africa,2018,Government Debt (% of GDP),GGXWDG_NGDP,20.4,IMF
+NGA,Nigeria,Africa,2018,Inflation Rate (CPI),PCPIPCH,12.1,IMF
+NGA,Nigeria,Africa,2018,Unemployment Rate,LUR,22.6,IMF
+NGA,Nigeria,Africa,2019,Current Account Balance (% of GDP),BCA_NGDPD,-2.0,IMF
+NGA,Nigeria,Africa,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-3.3,IMF
+NGA,Nigeria,Africa,2019,GDP Growth Rate (Annual %),NGDP_RPCH,2.2,IMF
+NGA,Nigeria,Africa,2019,Government Debt (% of GDP),GGXWDG_NGDP,21.4,IMF
+NGA,Nigeria,Africa,2019,Inflation Rate (CPI),PCPIPCH,11.4,IMF
+NGA,Nigeria,Africa,2020,Current Account Balance (% of GDP),BCA_NGDPD,-2.7,IMF
+NGA,Nigeria,Africa,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.0,IMF
+NGA,Nigeria,Africa,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-6.4,IMF
+NGA,Nigeria,Africa,2020,Government Debt (% of GDP),GGXWDG_NGDP,25.7,IMF
+NGA,Nigeria,Africa,2020,Inflation Rate (CPI),PCPIPCH,13.2,IMF
+NGA,Nigeria,Africa,2021,Current Account Balance (% of GDP),BCA_NGDPD,-0.5,IMF
+NGA,Nigeria,Africa,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.0,IMF
+NGA,Nigeria,Africa,2021,GDP Growth Rate (Annual %),NGDP_RPCH,1.1,IMF
+NGA,Nigeria,Africa,2021,Government Debt (% of GDP),GGXWDG_NGDP,26.6,IMF
+NGA,Nigeria,Africa,2021,Inflation Rate (CPI),PCPIPCH,17.0,IMF
+NGA,Nigeria,Africa,2022,Current Account Balance (% of GDP),BCA_NGDPD,0.2,IMF
+NGA,Nigeria,Africa,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.0,IMF
+NGA,Nigeria,Africa,2022,GDP Growth Rate (Annual %),NGDP_RPCH,4.3,IMF
+NGA,Nigeria,Africa,2022,Government Debt (% of GDP),GGXWDG_NGDP,29.8,IMF
+NGA,Nigeria,Africa,2022,Inflation Rate (CPI),PCPIPCH,18.8,IMF
+NGA,Nigeria,Africa,2023,Current Account Balance (% of GDP),BCA_NGDPD,1.3,IMF
+NGA,Nigeria,Africa,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-3.1,IMF
+NGA,Nigeria,Africa,2023,GDP Growth Rate (Annual %),NGDP_RPCH,3.3,IMF
+NGA,Nigeria,Africa,2023,Government Debt (% of GDP),GGXWDG_NGDP,36.3,IMF
+NGA,Nigeria,Africa,2023,Inflation Rate (CPI),PCPIPCH,24.7,IMF
+NGA,Nigeria,Africa,2024,Current Account Balance (% of GDP),BCA_NGDPD,6.8,IMF
+NGA,Nigeria,Africa,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-1.6,IMF
+NGA,Nigeria,Africa,2024,GDP Growth Rate (Annual %),NGDP_RPCH,4.1,IMF
+NGA,Nigeria,Africa,2024,Government Debt (% of GDP),GGXWDG_NGDP,39.3,IMF
+NGA,Nigeria,Africa,2024,Inflation Rate (CPI),PCPIPCH,31.4,IMF
+PER,Peru,Latin America,2018,Current Account Balance (% of GDP),BCA_NGDPD,-1.2,IMF
+PER,Peru,Latin America,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-1.9,IMF
+PER,Peru,Latin America,2018,GDP Growth Rate (Annual %),NGDP_RPCH,4.0,IMF
+PER,Peru,Latin America,2018,Government Debt (% of GDP),GGXWDG_NGDP,25.7,IMF
+PER,Peru,Latin America,2018,Inflation Rate (CPI),PCPIPCH,1.3,IMF
+PER,Peru,Latin America,2018,Unemployment Rate,LUR,6.7,IMF
+PER,Peru,Latin America,2019,Current Account Balance (% of GDP),BCA_NGDPD,-0.7,IMF
+PER,Peru,Latin America,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-1.4,IMF
+PER,Peru,Latin America,2019,GDP Growth Rate (Annual %),NGDP_RPCH,2.2,IMF
+PER,Peru,Latin America,2019,Government Debt (% of GDP),GGXWDG_NGDP,26.5,IMF
+PER,Peru,Latin America,2019,Inflation Rate (CPI),PCPIPCH,2.1,IMF
+PER,Peru,Latin America,2019,Unemployment Rate,LUR,6.6,IMF
+PER,Peru,Latin America,2020,Current Account Balance (% of GDP),BCA_NGDPD,0.7,IMF
+PER,Peru,Latin America,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-8.2,IMF
+PER,Peru,Latin America,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-10.9,IMF
+PER,Peru,Latin America,2020,Government Debt (% of GDP),GGXWDG_NGDP,34.3,IMF
+PER,Peru,Latin America,2020,Inflation Rate (CPI),PCPIPCH,1.8,IMF
+PER,Peru,Latin America,2020,Unemployment Rate,LUR,13.0,IMF
+PER,Peru,Latin America,2021,Current Account Balance (% of GDP),BCA_NGDPD,-2.2,IMF
+PER,Peru,Latin America,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.5,IMF
+PER,Peru,Latin America,2021,GDP Growth Rate (Annual %),NGDP_RPCH,13.4,IMF
+PER,Peru,Latin America,2021,Government Debt (% of GDP),GGXWDG_NGDP,35.5,IMF
+PER,Peru,Latin America,2021,Inflation Rate (CPI),PCPIPCH,4.0,IMF
+PER,Peru,Latin America,2021,Unemployment Rate,LUR,10.7,IMF
+PER,Peru,Latin America,2022,Current Account Balance (% of GDP),BCA_NGDPD,-4.0,IMF
+PER,Peru,Latin America,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-1.4,IMF
+PER,Peru,Latin America,2022,GDP Growth Rate (Annual %),NGDP_RPCH,2.8,IMF
+PER,Peru,Latin America,2022,Government Debt (% of GDP),GGXWDG_NGDP,33.5,IMF
+PER,Peru,Latin America,2022,Inflation Rate (CPI),PCPIPCH,7.9,IMF
+PER,Peru,Latin America,2022,Unemployment Rate,LUR,7.8,IMF
+PER,Peru,Latin America,2023,Current Account Balance (% of GDP),BCA_NGDPD,0.3,IMF
+PER,Peru,Latin America,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.8,IMF
+PER,Peru,Latin America,2023,GDP Growth Rate (Annual %),NGDP_RPCH,-0.4,IMF
+PER,Peru,Latin America,2023,Government Debt (% of GDP),GGXWDG_NGDP,32.4,IMF
+PER,Peru,Latin America,2023,Inflation Rate (CPI),PCPIPCH,6.3,IMF
+PER,Peru,Latin America,2023,Unemployment Rate,LUR,6.8,IMF
+PER,Peru,Latin America,2024,Current Account Balance (% of GDP),BCA_NGDPD,2.2,IMF
+PER,Peru,Latin America,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-3.5,IMF
+PER,Peru,Latin America,2024,GDP Growth Rate (Annual %),NGDP_RPCH,3.3,IMF
+PER,Peru,Latin America,2024,Government Debt (% of GDP),GGXWDG_NGDP,32.2,IMF
+PER,Peru,Latin America,2024,Inflation Rate (CPI),PCPIPCH,2.4,IMF
+PER,Peru,Latin America,2024,Unemployment Rate,LUR,6.4,IMF
+PHL,Philippines,Asia,2018,Current Account Balance (% of GDP),BCA_NGDPD,-2.6,IMF
+PHL,Philippines,Asia,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-1.5,IMF
+PHL,Philippines,Asia,2018,GDP Growth Rate (Annual %),NGDP_RPCH,6.3,IMF
+PHL,Philippines,Asia,2018,Government Debt (% of GDP),GGXWDG_NGDP,37.1,IMF
+PHL,Philippines,Asia,2018,Inflation Rate (CPI),PCPIPCH,5.3,IMF
+PHL,Philippines,Asia,2018,Unemployment Rate,LUR,5.3,IMF
+PHL,Philippines,Asia,2019,Current Account Balance (% of GDP),BCA_NGDPD,-0.8,IMF
+PHL,Philippines,Asia,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-1.5,IMF
+PHL,Philippines,Asia,2019,GDP Growth Rate (Annual %),NGDP_RPCH,6.1,IMF
+PHL,Philippines,Asia,2019,Government Debt (% of GDP),GGXWDG_NGDP,37.0,IMF
+PHL,Philippines,Asia,2019,Inflation Rate (CPI),PCPIPCH,2.4,IMF
+PHL,Philippines,Asia,2019,Unemployment Rate,LUR,5.1,IMF
+PHL,Philippines,Asia,2020,Current Account Balance (% of GDP),BCA_NGDPD,3.2,IMF
+PHL,Philippines,Asia,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.5,IMF
+PHL,Philippines,Asia,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-9.5,IMF
+PHL,Philippines,Asia,2020,Government Debt (% of GDP),GGXWDG_NGDP,51.6,IMF
+PHL,Philippines,Asia,2020,Inflation Rate (CPI),PCPIPCH,2.4,IMF
+PHL,Philippines,Asia,2020,Unemployment Rate,LUR,10.4,IMF
+PHL,Philippines,Asia,2021,Current Account Balance (% of GDP),BCA_NGDPD,-1.5,IMF
+PHL,Philippines,Asia,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-6.2,IMF
+PHL,Philippines,Asia,2021,GDP Growth Rate (Annual %),NGDP_RPCH,5.7,IMF
+PHL,Philippines,Asia,2021,Government Debt (% of GDP),GGXWDG_NGDP,57.0,IMF
+PHL,Philippines,Asia,2021,Inflation Rate (CPI),PCPIPCH,3.9,IMF
+PHL,Philippines,Asia,2021,Unemployment Rate,LUR,7.8,IMF
+PHL,Philippines,Asia,2022,Current Account Balance (% of GDP),BCA_NGDPD,-4.5,IMF
+PHL,Philippines,Asia,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.5,IMF
+PHL,Philippines,Asia,2022,GDP Growth Rate (Annual %),NGDP_RPCH,7.6,IMF
+PHL,Philippines,Asia,2022,Government Debt (% of GDP),GGXWDG_NGDP,57.4,IMF
+PHL,Philippines,Asia,2022,Inflation Rate (CPI),PCPIPCH,5.8,IMF
+PHL,Philippines,Asia,2022,Unemployment Rate,LUR,5.4,IMF
+PHL,Philippines,Asia,2023,Current Account Balance (% of GDP),BCA_NGDPD,-2.8,IMF
+PHL,Philippines,Asia,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.4,IMF
+PHL,Philippines,Asia,2023,GDP Growth Rate (Annual %),NGDP_RPCH,5.5,IMF
+PHL,Philippines,Asia,2023,Government Debt (% of GDP),GGXWDG_NGDP,56.5,IMF
+PHL,Philippines,Asia,2023,Inflation Rate (CPI),PCPIPCH,6.0,IMF
+PHL,Philippines,Asia,2023,Unemployment Rate,LUR,4.4,IMF
+PHL,Philippines,Asia,2024,Current Account Balance (% of GDP),BCA_NGDPD,-4.0,IMF
+PHL,Philippines,Asia,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-3.8,IMF
+PHL,Philippines,Asia,2024,GDP Growth Rate (Annual %),NGDP_RPCH,5.7,IMF
+PHL,Philippines,Asia,2024,Government Debt (% of GDP),GGXWDG_NGDP,56.6,IMF
+PHL,Philippines,Asia,2024,Inflation Rate (CPI),PCPIPCH,3.2,IMF
+PHL,Philippines,Asia,2024,Unemployment Rate,LUR,3.8,IMF
+POL,Poland,Europe,2018,Current Account Balance (% of GDP),BCA_NGDPD,-2.0,IMF
+POL,Poland,Europe,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-0.2,IMF
+POL,Poland,Europe,2018,GDP Growth Rate (Annual %),NGDP_RPCH,6.2,IMF
+POL,Poland,Europe,2018,Government Debt (% of GDP),GGXWDG_NGDP,48.2,IMF
+POL,Poland,Europe,2018,Inflation Rate (CPI),PCPIPCH,1.8,IMF
+POL,Poland,Europe,2018,Unemployment Rate,LUR,3.8,IMF
+POL,Poland,Europe,2019,Current Account Balance (% of GDP),BCA_NGDPD,-0.3,IMF
+POL,Poland,Europe,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-0.7,IMF
+POL,Poland,Europe,2019,GDP Growth Rate (Annual %),NGDP_RPCH,4.6,IMF
+POL,Poland,Europe,2019,Government Debt (% of GDP),GGXWDG_NGDP,45.2,IMF
+POL,Poland,Europe,2019,Inflation Rate (CPI),PCPIPCH,2.3,IMF
+POL,Poland,Europe,2019,Unemployment Rate,LUR,3.3,IMF
+POL,Poland,Europe,2020,Current Account Balance (% of GDP),BCA_NGDPD,2.4,IMF
+POL,Poland,Europe,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-6.9,IMF
+POL,Poland,Europe,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-2.0,IMF
+POL,Poland,Europe,2020,Government Debt (% of GDP),GGXWDG_NGDP,56.6,IMF
+POL,Poland,Europe,2020,Inflation Rate (CPI),PCPIPCH,3.4,IMF
+POL,Poland,Europe,2020,Unemployment Rate,LUR,3.2,IMF
+POL,Poland,Europe,2021,Current Account Balance (% of GDP),BCA_NGDPD,-1.3,IMF
+POL,Poland,Europe,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-1.7,IMF
+POL,Poland,Europe,2021,GDP Growth Rate (Annual %),NGDP_RPCH,6.9,IMF
+POL,Poland,Europe,2021,Government Debt (% of GDP),GGXWDG_NGDP,53.0,IMF
+POL,Poland,Europe,2021,Inflation Rate (CPI),PCPIPCH,5.1,IMF
+POL,Poland,Europe,2021,Unemployment Rate,LUR,3.4,IMF
+POL,Poland,Europe,2022,Current Account Balance (% of GDP),BCA_NGDPD,-2.3,IMF
+POL,Poland,Europe,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-3.4,IMF
+POL,Poland,Europe,2022,GDP Growth Rate (Annual %),NGDP_RPCH,5.3,IMF
+POL,Poland,Europe,2022,Government Debt (% of GDP),GGXWDG_NGDP,48.8,IMF
+POL,Poland,Europe,2022,Inflation Rate (CPI),PCPIPCH,14.2,IMF
+POL,Poland,Europe,2022,Unemployment Rate,LUR,2.9,IMF
+POL,Poland,Europe,2023,Current Account Balance (% of GDP),BCA_NGDPD,1.8,IMF
+POL,Poland,Europe,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.3,IMF
+POL,Poland,Europe,2023,GDP Growth Rate (Annual %),NGDP_RPCH,0.2,IMF
+POL,Poland,Europe,2023,Government Debt (% of GDP),GGXWDG_NGDP,49.5,IMF
+POL,Poland,Europe,2023,Inflation Rate (CPI),PCPIPCH,11.5,IMF
+POL,Poland,Europe,2023,Unemployment Rate,LUR,2.8,IMF
+POL,Poland,Europe,2024,Current Account Balance (% of GDP),BCA_NGDPD,0.0,IMF
+POL,Poland,Europe,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-6.6,IMF
+POL,Poland,Europe,2024,GDP Growth Rate (Annual %),NGDP_RPCH,2.9,IMF
+POL,Poland,Europe,2024,Government Debt (% of GDP),GGXWDG_NGDP,55.3,IMF
+POL,Poland,Europe,2024,Inflation Rate (CPI),PCPIPCH,3.7,IMF
+POL,Poland,Europe,2024,Unemployment Rate,LUR,2.9,IMF
+ROU,Romania,Europe,2018,Current Account Balance (% of GDP),BCA_NGDPD,-4.6,IMF
+ROU,Romania,Europe,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.7,IMF
+ROU,Romania,Europe,2018,GDP Growth Rate (Annual %),NGDP_RPCH,6.1,IMF
+ROU,Romania,Europe,2018,Government Debt (% of GDP),GGXWDG_NGDP,36.2,IMF
+ROU,Romania,Europe,2018,Inflation Rate (CPI),PCPIPCH,4.6,IMF
+ROU,Romania,Europe,2018,Unemployment Rate,LUR,5.3,IMF
+ROU,Romania,Europe,2019,Current Account Balance (% of GDP),BCA_NGDPD,-4.9,IMF
+ROU,Romania,Europe,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.6,IMF
+ROU,Romania,Europe,2019,GDP Growth Rate (Annual %),NGDP_RPCH,3.9,IMF
+ROU,Romania,Europe,2019,Government Debt (% of GDP),GGXWDG_NGDP,36.5,IMF
+ROU,Romania,Europe,2019,Inflation Rate (CPI),PCPIPCH,3.8,IMF
+ROU,Romania,Europe,2019,Unemployment Rate,LUR,4.9,IMF
+ROU,Romania,Europe,2020,Current Account Balance (% of GDP),BCA_NGDPD,-5.1,IMF
+ROU,Romania,Europe,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-9.5,IMF
+ROU,Romania,Europe,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-3.7,IMF
+ROU,Romania,Europe,2020,Government Debt (% of GDP),GGXWDG_NGDP,49.3,IMF
+ROU,Romania,Europe,2020,Inflation Rate (CPI),PCPIPCH,2.6,IMF
+ROU,Romania,Europe,2020,Unemployment Rate,LUR,6.1,IMF
+ROU,Romania,Europe,2021,Current Account Balance (% of GDP),BCA_NGDPD,-7.2,IMF
+ROU,Romania,Europe,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-6.7,IMF
+ROU,Romania,Europe,2021,GDP Growth Rate (Annual %),NGDP_RPCH,5.5,IMF
+ROU,Romania,Europe,2021,Government Debt (% of GDP),GGXWDG_NGDP,51.5,IMF
+ROU,Romania,Europe,2021,Inflation Rate (CPI),PCPIPCH,5.0,IMF
+ROU,Romania,Europe,2021,Unemployment Rate,LUR,5.6,IMF
+ROU,Romania,Europe,2022,Current Account Balance (% of GDP),BCA_NGDPD,-9.5,IMF
+ROU,Romania,Europe,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.8,IMF
+ROU,Romania,Europe,2022,GDP Growth Rate (Annual %),NGDP_RPCH,4.0,IMF
+ROU,Romania,Europe,2022,Government Debt (% of GDP),GGXWDG_NGDP,51.7,IMF
+ROU,Romania,Europe,2022,Inflation Rate (CPI),PCPIPCH,13.8,IMF
+ROU,Romania,Europe,2022,Unemployment Rate,LUR,5.6,IMF
+ROU,Romania,Europe,2023,Current Account Balance (% of GDP),BCA_NGDPD,-6.6,IMF
+ROU,Romania,Europe,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.6,IMF
+ROU,Romania,Europe,2023,GDP Growth Rate (Annual %),NGDP_RPCH,2.4,IMF
+ROU,Romania,Europe,2023,Government Debt (% of GDP),GGXWDG_NGDP,52.1,IMF
+ROU,Romania,Europe,2023,Inflation Rate (CPI),PCPIPCH,10.4,IMF
+ROU,Romania,Europe,2023,Unemployment Rate,LUR,5.6,IMF
+ROU,Romania,Europe,2024,Current Account Balance (% of GDP),BCA_NGDPD,-8.4,IMF
+ROU,Romania,Europe,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-8.7,IMF
+ROU,Romania,Europe,2024,GDP Growth Rate (Annual %),NGDP_RPCH,0.8,IMF
+ROU,Romania,Europe,2024,Government Debt (% of GDP),GGXWDG_NGDP,57.4,IMF
+ROU,Romania,Europe,2024,Inflation Rate (CPI),PCPIPCH,5.6,IMF
+ROU,Romania,Europe,2024,Unemployment Rate,LUR,5.4,IMF
+ZAF,South Africa,Africa,2018,Current Account Balance (% of GDP),BCA_NGDPD,-2.9,IMF
+ZAF,South Africa,Africa,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-3.7,IMF
+ZAF,South Africa,Africa,2018,GDP Growth Rate (Annual %),NGDP_RPCH,1.6,IMF
+ZAF,South Africa,Africa,2018,Government Debt (% of GDP),GGXWDG_NGDP,51.5,IMF
+ZAF,South Africa,Africa,2018,Inflation Rate (CPI),PCPIPCH,4.6,IMF
+ZAF,South Africa,Africa,2018,Unemployment Rate,LUR,27.1,IMF
+ZAF,South Africa,Africa,2019,Current Account Balance (% of GDP),BCA_NGDPD,-2.6,IMF
+ZAF,South Africa,Africa,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.1,IMF
+ZAF,South Africa,Africa,2019,GDP Growth Rate (Annual %),NGDP_RPCH,0.3,IMF
+ZAF,South Africa,Africa,2019,Government Debt (% of GDP),GGXWDG_NGDP,56.1,IMF
+ZAF,South Africa,Africa,2019,Inflation Rate (CPI),PCPIPCH,4.1,IMF
+ZAF,South Africa,Africa,2019,Unemployment Rate,LUR,28.7,IMF
+ZAF,South Africa,Africa,2020,Current Account Balance (% of GDP),BCA_NGDPD,2.0,IMF
+ZAF,South Africa,Africa,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-9.6,IMF
+ZAF,South Africa,Africa,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-6.2,IMF
+ZAF,South Africa,Africa,2020,Government Debt (% of GDP),GGXWDG_NGDP,68.9,IMF
+ZAF,South Africa,Africa,2020,Inflation Rate (CPI),PCPIPCH,3.3,IMF
+ZAF,South Africa,Africa,2020,Unemployment Rate,LUR,29.2,IMF
+ZAF,South Africa,Africa,2021,Current Account Balance (% of GDP),BCA_NGDPD,3.7,IMF
+ZAF,South Africa,Africa,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.5,IMF
+ZAF,South Africa,Africa,2021,GDP Growth Rate (Annual %),NGDP_RPCH,4.9,IMF
+ZAF,South Africa,Africa,2021,Government Debt (% of GDP),GGXWDG_NGDP,68.8,IMF
+ZAF,South Africa,Africa,2021,Inflation Rate (CPI),PCPIPCH,4.6,IMF
+ZAF,South Africa,Africa,2021,Unemployment Rate,LUR,34.3,IMF
+ZAF,South Africa,Africa,2022,Current Account Balance (% of GDP),BCA_NGDPD,-0.3,IMF
+ZAF,South Africa,Africa,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.2,IMF
+ZAF,South Africa,Africa,2022,GDP Growth Rate (Annual %),NGDP_RPCH,2.1,IMF
+ZAF,South Africa,Africa,2022,Government Debt (% of GDP),GGXWDG_NGDP,70.7,IMF
+ZAF,South Africa,Africa,2022,Inflation Rate (CPI),PCPIPCH,6.9,IMF
+ZAF,South Africa,Africa,2022,Unemployment Rate,LUR,33.5,IMF
+ZAF,South Africa,Africa,2023,Current Account Balance (% of GDP),BCA_NGDPD,-1.1,IMF
+ZAF,South Africa,Africa,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.5,IMF
+ZAF,South Africa,Africa,2023,GDP Growth Rate (Annual %),NGDP_RPCH,0.8,IMF
+ZAF,South Africa,Africa,2023,Government Debt (% of GDP),GGXWDG_NGDP,73.2,IMF
+ZAF,South Africa,Africa,2023,Inflation Rate (CPI),PCPIPCH,5.9,IMF
+ZAF,South Africa,Africa,2023,Unemployment Rate,LUR,32.4,IMF
+ZAF,South Africa,Africa,2024,Current Account Balance (% of GDP),BCA_NGDPD,-0.7,IMF
+ZAF,South Africa,Africa,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.8,IMF
+ZAF,South Africa,Africa,2024,GDP Growth Rate (Annual %),NGDP_RPCH,0.5,IMF
+ZAF,South Africa,Africa,2024,Government Debt (% of GDP),GGXWDG_NGDP,76.0,IMF
+ZAF,South Africa,Africa,2024,Inflation Rate (CPI),PCPIPCH,4.4,IMF
+ZAF,South Africa,Africa,2024,Unemployment Rate,LUR,32.6,IMF
+THA,Thailand,Asia,2018,Current Account Balance (% of GDP),BCA_NGDPD,5.6,IMF
+THA,Thailand,Asia,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,0.2,IMF
+THA,Thailand,Asia,2018,GDP Growth Rate (Annual %),NGDP_RPCH,4.2,IMF
+THA,Thailand,Asia,2018,Government Debt (% of GDP),GGXWDG_NGDP,41.9,IMF
+THA,Thailand,Asia,2018,Inflation Rate (CPI),PCPIPCH,1.1,IMF
+THA,Thailand,Asia,2018,Unemployment Rate,LUR,1.1,IMF
+THA,Thailand,Asia,2019,Current Account Balance (% of GDP),BCA_NGDPD,7.0,IMF
+THA,Thailand,Asia,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,0.4,IMF
+THA,Thailand,Asia,2019,GDP Growth Rate (Annual %),NGDP_RPCH,2.1,IMF
+THA,Thailand,Asia,2019,Government Debt (% of GDP),GGXWDG_NGDP,41.1,IMF
+THA,Thailand,Asia,2019,Inflation Rate (CPI),PCPIPCH,0.7,IMF
+THA,Thailand,Asia,2019,Unemployment Rate,LUR,1.0,IMF
+THA,Thailand,Asia,2020,Current Account Balance (% of GDP),BCA_NGDPD,4.2,IMF
+THA,Thailand,Asia,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.5,IMF
+THA,Thailand,Asia,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-6.1,IMF
+THA,Thailand,Asia,2020,Government Debt (% of GDP),GGXWDG_NGDP,49.4,IMF
+THA,Thailand,Asia,2020,Inflation Rate (CPI),PCPIPCH,-0.8,IMF
+THA,Thailand,Asia,2020,Unemployment Rate,LUR,1.7,IMF
+THA,Thailand,Asia,2021,Current Account Balance (% of GDP),BCA_NGDPD,-2.1,IMF
+THA,Thailand,Asia,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-6.7,IMF
+THA,Thailand,Asia,2021,GDP Growth Rate (Annual %),NGDP_RPCH,1.5,IMF
+THA,Thailand,Asia,2021,Government Debt (% of GDP),GGXWDG_NGDP,58.3,IMF
+THA,Thailand,Asia,2021,Inflation Rate (CPI),PCPIPCH,1.2,IMF
+THA,Thailand,Asia,2021,Unemployment Rate,LUR,1.9,IMF
+THA,Thailand,Asia,2022,Current Account Balance (% of GDP),BCA_NGDPD,-3.5,IMF
+THA,Thailand,Asia,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.6,IMF
+THA,Thailand,Asia,2022,GDP Growth Rate (Annual %),NGDP_RPCH,2.6,IMF
+THA,Thailand,Asia,2022,Government Debt (% of GDP),GGXWDG_NGDP,60.5,IMF
+THA,Thailand,Asia,2022,Inflation Rate (CPI),PCPIPCH,6.1,IMF
+THA,Thailand,Asia,2022,Unemployment Rate,LUR,1.3,IMF
+THA,Thailand,Asia,2023,Current Account Balance (% of GDP),BCA_NGDPD,1.4,IMF
+THA,Thailand,Asia,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.0,IMF
+THA,Thailand,Asia,2023,GDP Growth Rate (Annual %),NGDP_RPCH,2.0,IMF
+THA,Thailand,Asia,2023,Government Debt (% of GDP),GGXWDG_NGDP,62.3,IMF
+THA,Thailand,Asia,2023,Inflation Rate (CPI),PCPIPCH,1.2,IMF
+THA,Thailand,Asia,2023,Unemployment Rate,LUR,1.0,IMF
+THA,Thailand,Asia,2024,Current Account Balance (% of GDP),BCA_NGDPD,2.5,IMF
+THA,Thailand,Asia,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-1.3,IMF
+THA,Thailand,Asia,2024,GDP Growth Rate (Annual %),NGDP_RPCH,2.5,IMF
+THA,Thailand,Asia,2024,Government Debt (% of GDP),GGXWDG_NGDP,63.2,IMF
+THA,Thailand,Asia,2024,Inflation Rate (CPI),PCPIPCH,0.4,IMF
+THA,Thailand,Asia,2024,Unemployment Rate,LUR,1.0,IMF
+TUR,Turkey,Europe,2018,Current Account Balance (% of GDP),BCA_NGDPD,-1.8,IMF
+TUR,Turkey,Europe,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-3.1,IMF
+TUR,Turkey,Europe,2018,GDP Growth Rate (Annual %),NGDP_RPCH,3.5,IMF
+TUR,Turkey,Europe,2018,Government Debt (% of GDP),GGXWDG_NGDP,29.5,IMF
+TUR,Turkey,Europe,2018,Inflation Rate (CPI),PCPIPCH,16.3,IMF
+TUR,Turkey,Europe,2018,Unemployment Rate,LUR,10.9,IMF
+TUR,Turkey,Europe,2019,Current Account Balance (% of GDP),BCA_NGDPD,1.9,IMF
+TUR,Turkey,Europe,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.7,IMF
+TUR,Turkey,Europe,2019,GDP Growth Rate (Annual %),NGDP_RPCH,1.3,IMF
+TUR,Turkey,Europe,2019,Government Debt (% of GDP),GGXWDG_NGDP,31.8,IMF
+TUR,Turkey,Europe,2019,Inflation Rate (CPI),PCPIPCH,15.2,IMF
+TUR,Turkey,Europe,2019,Unemployment Rate,LUR,13.7,IMF
+TUR,Turkey,Europe,2020,Current Account Balance (% of GDP),BCA_NGDPD,-4.2,IMF
+TUR,Turkey,Europe,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.6,IMF
+TUR,Turkey,Europe,2020,GDP Growth Rate (Annual %),NGDP_RPCH,1.8,IMF
+TUR,Turkey,Europe,2020,Government Debt (% of GDP),GGXWDG_NGDP,38.7,IMF
+TUR,Turkey,Europe,2020,Inflation Rate (CPI),PCPIPCH,12.3,IMF
+TUR,Turkey,Europe,2020,Unemployment Rate,LUR,13.1,IMF
+TUR,Turkey,Europe,2021,Current Account Balance (% of GDP),BCA_NGDPD,-0.8,IMF
+TUR,Turkey,Europe,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-3.0,IMF
+TUR,Turkey,Europe,2021,GDP Growth Rate (Annual %),NGDP_RPCH,11.8,IMF
+TUR,Turkey,Europe,2021,Government Debt (% of GDP),GGXWDG_NGDP,39.4,IMF
+TUR,Turkey,Europe,2021,Inflation Rate (CPI),PCPIPCH,19.6,IMF
+TUR,Turkey,Europe,2021,Unemployment Rate,LUR,12.0,IMF
+TUR,Turkey,Europe,2022,Current Account Balance (% of GDP),BCA_NGDPD,-5.0,IMF
+TUR,Turkey,Europe,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-1.1,IMF
+TUR,Turkey,Europe,2022,GDP Growth Rate (Annual %),NGDP_RPCH,5.4,IMF
+TUR,Turkey,Europe,2022,Government Debt (% of GDP),GGXWDG_NGDP,30.2,IMF
+TUR,Turkey,Europe,2022,Inflation Rate (CPI),PCPIPCH,72.3,IMF
+TUR,Turkey,Europe,2022,Unemployment Rate,LUR,10.4,IMF
+TUR,Turkey,Europe,2023,Current Account Balance (% of GDP),BCA_NGDPD,-3.6,IMF
+TUR,Turkey,Europe,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.2,IMF
+TUR,Turkey,Europe,2023,GDP Growth Rate (Annual %),NGDP_RPCH,5.0,IMF
+TUR,Turkey,Europe,2023,Government Debt (% of GDP),GGXWDG_NGDP,28.7,IMF
+TUR,Turkey,Europe,2023,Inflation Rate (CPI),PCPIPCH,53.9,IMF
+TUR,Turkey,Europe,2023,Unemployment Rate,LUR,9.4,IMF
+TUR,Turkey,Europe,2024,Current Account Balance (% of GDP),BCA_NGDPD,-0.8,IMF
+TUR,Turkey,Europe,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.6,IMF
+TUR,Turkey,Europe,2024,GDP Growth Rate (Annual %),NGDP_RPCH,3.3,IMF
+TUR,Turkey,Europe,2024,Government Debt (% of GDP),GGXWDG_NGDP,24.0,IMF
+TUR,Turkey,Europe,2024,Inflation Rate (CPI),PCPIPCH,58.5,IMF
+TUR,Turkey,Europe,2024,Unemployment Rate,LUR,8.7,IMF
+UKR,Ukraine,Europe,2018,Current Account Balance (% of GDP),BCA_NGDPD,-3.3,IMF
+UKR,Ukraine,Europe,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.1,IMF
+UKR,Ukraine,Europe,2018,GDP Growth Rate (Annual %),NGDP_RPCH,3.5,IMF
+UKR,Ukraine,Europe,2018,Government Debt (% of GDP),GGXWDG_NGDP,60.4,IMF
+UKR,Ukraine,Europe,2018,Inflation Rate (CPI),PCPIPCH,10.9,IMF
+UKR,Ukraine,Europe,2018,Unemployment Rate,LUR,9.0,IMF
+UKR,Ukraine,Europe,2019,Current Account Balance (% of GDP),BCA_NGDPD,-2.7,IMF
+UKR,Ukraine,Europe,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.1,IMF
+UKR,Ukraine,Europe,2019,GDP Growth Rate (Annual %),NGDP_RPCH,3.2,IMF
+UKR,Ukraine,Europe,2019,Government Debt (% of GDP),GGXWDG_NGDP,50.5,IMF
+UKR,Ukraine,Europe,2019,Inflation Rate (CPI),PCPIPCH,7.9,IMF
+UKR,Ukraine,Europe,2019,Unemployment Rate,LUR,8.5,IMF
+UKR,Ukraine,Europe,2020,Current Account Balance (% of GDP),BCA_NGDPD,3.3,IMF
+UKR,Ukraine,Europe,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-5.9,IMF
+UKR,Ukraine,Europe,2020,GDP Growth Rate (Annual %),NGDP_RPCH,-3.8,IMF
+UKR,Ukraine,Europe,2020,Government Debt (% of GDP),GGXWDG_NGDP,60.5,IMF
+UKR,Ukraine,Europe,2020,Inflation Rate (CPI),PCPIPCH,2.7,IMF
+UKR,Ukraine,Europe,2020,Unemployment Rate,LUR,9.2,IMF
+UKR,Ukraine,Europe,2021,Current Account Balance (% of GDP),BCA_NGDPD,-1.9,IMF
+UKR,Ukraine,Europe,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-4.0,IMF
+UKR,Ukraine,Europe,2021,GDP Growth Rate (Annual %),NGDP_RPCH,3.4,IMF
+UKR,Ukraine,Europe,2021,Government Debt (% of GDP),GGXWDG_NGDP,48.9,IMF
+UKR,Ukraine,Europe,2021,Inflation Rate (CPI),PCPIPCH,9.4,IMF
+UKR,Ukraine,Europe,2021,Unemployment Rate,LUR,9.8,IMF
+UKR,Ukraine,Europe,2022,Current Account Balance (% of GDP),BCA_NGDPD,4.9,IMF
+UKR,Ukraine,Europe,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,-15.6,IMF
+UKR,Ukraine,Europe,2022,GDP Growth Rate (Annual %),NGDP_RPCH,-28.8,IMF
+UKR,Ukraine,Europe,2022,Government Debt (% of GDP),GGXWDG_NGDP,77.7,IMF
+UKR,Ukraine,Europe,2022,Inflation Rate (CPI),PCPIPCH,20.2,IMF
+UKR,Ukraine,Europe,2022,Unemployment Rate,LUR,24.5,IMF
+UKR,Ukraine,Europe,2023,Current Account Balance (% of GDP),BCA_NGDPD,-5.3,IMF
+UKR,Ukraine,Europe,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-19.3,IMF
+UKR,Ukraine,Europe,2023,GDP Growth Rate (Annual %),NGDP_RPCH,5.5,IMF
+UKR,Ukraine,Europe,2023,Government Debt (% of GDP),GGXWDG_NGDP,81.2,IMF
+UKR,Ukraine,Europe,2023,Inflation Rate (CPI),PCPIPCH,12.9,IMF
+UKR,Ukraine,Europe,2023,Unemployment Rate,LUR,19.1,IMF
+UKR,Ukraine,Europe,2024,Current Account Balance (% of GDP),BCA_NGDPD,-7.2,IMF
+UKR,Ukraine,Europe,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-17.2,IMF
+UKR,Ukraine,Europe,2024,GDP Growth Rate (Annual %),NGDP_RPCH,2.9,IMF
+UKR,Ukraine,Europe,2024,Government Debt (% of GDP),GGXWDG_NGDP,89.7,IMF
+UKR,Ukraine,Europe,2024,Inflation Rate (CPI),PCPIPCH,6.5,IMF
+UKR,Ukraine,Europe,2024,Unemployment Rate,LUR,13.1,IMF
+VNM,Vietnam,Asia,2018,Current Account Balance (% of GDP),BCA_NGDPD,1.9,IMF
+VNM,Vietnam,Asia,2018,Fiscal Balance (% of GDP),GGXCNL_NGDP,-1.0,IMF
+VNM,Vietnam,Asia,2018,GDP Growth Rate (Annual %),NGDP_RPCH,7.5,IMF
+VNM,Vietnam,Asia,2018,Government Debt (% of GDP),GGXWDG_NGDP,43.8,IMF
+VNM,Vietnam,Asia,2018,Inflation Rate (CPI),PCPIPCH,3.5,IMF
+VNM,Vietnam,Asia,2018,Unemployment Rate,LUR,2.2,IMF
+VNM,Vietnam,Asia,2019,Current Account Balance (% of GDP),BCA_NGDPD,3.8,IMF
+VNM,Vietnam,Asia,2019,Fiscal Balance (% of GDP),GGXCNL_NGDP,-0.4,IMF
+VNM,Vietnam,Asia,2019,GDP Growth Rate (Annual %),NGDP_RPCH,7.4,IMF
+VNM,Vietnam,Asia,2019,Government Debt (% of GDP),GGXWDG_NGDP,41.0,IMF
+VNM,Vietnam,Asia,2019,Inflation Rate (CPI),PCPIPCH,2.8,IMF
+VNM,Vietnam,Asia,2019,Unemployment Rate,LUR,2.2,IMF
+VNM,Vietnam,Asia,2020,Current Account Balance (% of GDP),BCA_NGDPD,4.3,IMF
+VNM,Vietnam,Asia,2020,Fiscal Balance (% of GDP),GGXCNL_NGDP,-2.9,IMF
+VNM,Vietnam,Asia,2020,GDP Growth Rate (Annual %),NGDP_RPCH,2.9,IMF
+VNM,Vietnam,Asia,2020,Government Debt (% of GDP),GGXWDG_NGDP,41.3,IMF
+VNM,Vietnam,Asia,2020,Inflation Rate (CPI),PCPIPCH,3.2,IMF
+VNM,Vietnam,Asia,2020,Unemployment Rate,LUR,2.5,IMF
+VNM,Vietnam,Asia,2021,Current Account Balance (% of GDP),BCA_NGDPD,-2.2,IMF
+VNM,Vietnam,Asia,2021,Fiscal Balance (% of GDP),GGXCNL_NGDP,-1.4,IMF
+VNM,Vietnam,Asia,2021,GDP Growth Rate (Annual %),NGDP_RPCH,2.6,IMF
+VNM,Vietnam,Asia,2021,Government Debt (% of GDP),GGXWDG_NGDP,39.2,IMF
+VNM,Vietnam,Asia,2021,Inflation Rate (CPI),PCPIPCH,1.8,IMF
+VNM,Vietnam,Asia,2021,Unemployment Rate,LUR,3.2,IMF
+VNM,Vietnam,Asia,2022,Current Account Balance (% of GDP),BCA_NGDPD,0.3,IMF
+VNM,Vietnam,Asia,2022,Fiscal Balance (% of GDP),GGXCNL_NGDP,0.7,IMF
+VNM,Vietnam,Asia,2022,GDP Growth Rate (Annual %),NGDP_RPCH,8.5,IMF
+VNM,Vietnam,Asia,2022,Government Debt (% of GDP),GGXWDG_NGDP,34.9,IMF
+VNM,Vietnam,Asia,2022,Inflation Rate (CPI),PCPIPCH,3.2,IMF
+VNM,Vietnam,Asia,2022,Unemployment Rate,LUR,2.3,IMF
+VNM,Vietnam,Asia,2023,Current Account Balance (% of GDP),BCA_NGDPD,6.4,IMF
+VNM,Vietnam,Asia,2023,Fiscal Balance (% of GDP),GGXCNL_NGDP,-1.7,IMF
+VNM,Vietnam,Asia,2023,GDP Growth Rate (Annual %),NGDP_RPCH,5.1,IMF
+VNM,Vietnam,Asia,2023,Government Debt (% of GDP),GGXWDG_NGDP,34.3,IMF
+VNM,Vietnam,Asia,2023,Inflation Rate (CPI),PCPIPCH,3.3,IMF
+VNM,Vietnam,Asia,2023,Unemployment Rate,LUR,2.3,IMF
+VNM,Vietnam,Asia,2024,Current Account Balance (% of GDP),BCA_NGDPD,6.6,IMF
+VNM,Vietnam,Asia,2024,Fiscal Balance (% of GDP),GGXCNL_NGDP,-1.5,IMF
+VNM,Vietnam,Asia,2024,GDP Growth Rate (Annual %),NGDP_RPCH,7.1,IMF
+VNM,Vietnam,Asia,2024,Government Debt (% of GDP),GGXWDG_NGDP,31.3,IMF
+VNM,Vietnam,Asia,2024,Inflation Rate (CPI),PCPIPCH,3.6,IMF
+VNM,Vietnam,Asia,2024,Unemployment Rate,LUR,2.2,IMF
