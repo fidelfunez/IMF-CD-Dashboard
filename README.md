@@ -10,6 +10,12 @@ For this project I wrote a Python script that pulls economic (capacity developme
 - COVID-19 impact on key indicators (2020-2021)
 - Full span 2018 through 2024
 
+**Key Insights**
+- Average GDP growth across analyzed countries: **2.72%** (2018-2024)
+- **COVID-19 impact**: Sharp contraction in 2020 visible across all regions
+- **Top performers**: Ethiopia, Bangladesh, and Vietnam led in average growth
+- **Regional patterns**: Asia and Africa showed stronger recovery post-COVID compared to other regions  
+
 **Technologies**
 - Power BI (visualization)
 - Python 3, pandas (data pipeline)
