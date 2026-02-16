@@ -29,7 +29,7 @@ WB_BASE_URL = "https://api.worldbank.org/v2"
 START_YEAR = 2018
 END_YEAR = 2024
 
-# 25 Countries with regions (as specified)
+# 25 Countries with regions
 COUNTRIES = {
     # Latin America
     "BRA": {"name": "Brazil", "region": "Latin America"},
@@ -149,11 +149,11 @@ def make_request(url: str, params: Optional[Dict] = None, max_retries: int = 3) 
             response.raise_for_status()
             return response.json()
         except requests.exceptions.RequestException as e:
-            print(f"  ⚠️  Request failed (attempt {attempt + 1}/{max_retries}): {e}")
+            print(f" Request failed (attempt {attempt + 1}/{max_retries}): {e}")
             if attempt < max_retries - 1:
                 time.sleep(2 ** attempt)  # Exponential backoff
             else:
-                print(f"  ❌ Failed to fetch data from {url}")
+                print(f" Failed to fetch data from {url}")
                 return None
     return None
 
@@ -177,7 +177,7 @@ def get_imf_data(indicator_code: str, country_codes: List[str]) -> List[Dict]:
     url = f"{IMF_BASE_URL}/{indicator_code}/{countries_str}"
     params = {"periods": periods}
     
-    print(f"  📊 Fetching {IMF_INDICATORS[indicator_code]['name']}...")
+    print(f"  Fetching {IMF_INDICATORS[indicator_code]['name']}...")
     
     response = make_request(url, params)
     
@@ -212,7 +212,7 @@ def get_imf_data(indicator_code: str, country_codes: List[str]) -> List[Dict]:
                         except (ValueError, TypeError):
                             continue
     except (KeyError, TypeError) as e:
-        print(f"  ⚠️  Error parsing IMF response: {e}")
+        print(f"  Error parsing IMF response: {e}")
     
     return data_points
 
@@ -240,7 +240,7 @@ def get_world_bank_data(indicator_code: str, country_codes: List[str]) -> List[D
         "per_page": 10000  # Large number to get all results
     }
     
-    print(f"  📊 Fetching {WB_INDICATORS[indicator_code]['name']}...")
+    print(f"  Fetching {WB_INDICATORS[indicator_code]['name']}...")
     
     response = make_request(url, params)
     
@@ -289,7 +289,7 @@ def clean_data(df: pd.DataFrame) -> pd.DataFrame:
     Returns:
         Cleaned dataframe
     """
-    print("  🧹 Cleaning data...")
+    print(" Cleaning data...")
     
     # Remove rows with null values in critical columns
     df_clean = df.dropna(subset=["Country", "Year", "Indicator_Name"])
@@ -321,7 +321,7 @@ def export_to_csv(df: pd.DataFrame, filename: str, output_dir: str = "data"):
     
     filepath = os.path.join(output_dir, filename)
     df.to_csv(filepath, index=False, encoding="utf-8")
-    print(f"  ✅ Exported: {filepath} ({len(df)} rows)")
+    print(f"  Exported: {filepath} ({len(df)} rows)")
 
 
 # ============================================================================
@@ -346,7 +346,7 @@ def main():
     country_codes = list(COUNTRIES.keys())
     
     # Fetch IMF data
-    print("🌍 Fetching data from IMF API...")
+    print("Fetching data from IMF API...")
     print("-" * 70)
     for indicator_code in IMF_INDICATORS.keys():
         imf_data = get_imf_data(indicator_code, country_codes)
@@ -355,7 +355,7 @@ def main():
     print()
     
     # Fetch World Bank data
-    print("🌍 Fetching data from World Bank API...")
+    print("Fetching data from World Bank API...")
     print("-" * 70)
     for indicator_code in WB_INDICATORS.keys():
         wb_data = get_world_bank_data(indicator_code, country_codes)
@@ -364,7 +364,7 @@ def main():
     print()
     
     # Convert to DataFrame
-    print("📊 Processing data...")
+    print("Processing data...")
     df = pd.DataFrame(all_data)
     
     if df.empty:
@@ -379,7 +379,7 @@ def main():
     print()
     
     # Export master CSV
-    print("💾 Exporting CSV files...")
+    print("Exporting CSV files...")
     print("-" * 70)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     
@@ -400,7 +400,7 @@ def main():
     # Summary statistics
     print()
     print("=" * 70)
-    print("📈 Summary Statistics")
+    print("Summary Statistics")
     print("=" * 70)
     print(f"Total Countries: {df_clean['Country'].nunique()}")
     print(f"Total Indicators: {df_clean['Indicator_Name'].nunique()}")
@@ -408,7 +408,7 @@ def main():
     print(f"Total Data Points: {len(df_clean)}")
     print(f"Missing Values: {df_clean['Value'].isna().sum()}")
     print()
-    print("✅ Data extraction complete!")
+    print("Data extraction complete!")
     print("=" * 70)
 
 
